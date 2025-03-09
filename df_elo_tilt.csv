@@ -238,7 +238,7 @@ Urawa Reds,1588.9394,0.43
 Suwon FC,1515.752,1.22
 Jonava,1266.8312,
 Shandong Taishan,1683.7488,
-Guizhou,1410.2154,0.57
+Guizhou,1410.2154,1.15
 Oita Trinita,1445.1014,0.37
 Kalju,1666.1774,
 FC Dallas,1516.1255,0.57
@@ -281,7 +281,7 @@ New England Revolution,1422.4787,0.25
 Incheon,1553.1289,1.04
 Columbus Crew,1638.7376,0.49
 Guangzhou City,1397.3494,
-Tianjin Tianhai,1450.7142,1.02
+Tianjin Tianhai,1450.7142,1.2
 Stromsgodset,1565.4196,
 Bodo/Glimt,1805.2168,
 Molde,1724.9284,
@@ -450,7 +450,7 @@ Dalkurd,1392.6449,
 Helsingborg,1461.8283,
 Balestier Khalsa,1408.1806,1.32
 Kalmar,1544.7334,
-Beijing Renhe,1347.3861,1.01
+Beijing Renhe,1347.3861,1.14
 FC Cincinnati,1546.722,0.37
 Norrby,1430.7246,
 Brommapojkarna,1543.8564,
@@ -944,8 +944,8 @@ Brest,1641.8842,
 Al Ittihad,1595.1948,1.1
 Petrojet,1487.9626,1.03
 Midtjylland (Den),1544.1679,1.12
-El Daklyeh,1411.6686,0.98
-El-Entag El-Harby,1439.2321,1.2
+El Daklyeh,1411.6686,0.99
+El-Entag El-Harby,1439.2321,1.19
 Basel (Sui),1542.6606,1.13
 Sturm Graz (Aut),1452.6795,1.09
 Nogoom FC,1424.8182,1.06
@@ -975,7 +975,7 @@ Auxerre,1597.4419,
 Austria Vienna (Am),1344.2933,
 BW Linz,1546.6893,
 Beziers,1450.1032,1.03
-Misr Lel Makkasa,1364.0034,1.04
+Misr Lel Makkasa,1364.0034,1.05
 Lafnitz,1368.7459,
 Le Havre,1496.335,
 Floridsdorfer AC,1475.0203,
@@ -1104,7 +1104,7 @@ Botev Vratsa,1351.8512,
 Anderlecht,1708.0254,
 Hibernian,1584.2896,
 Aberdeen,1519.4836,
-Wadi Degla,1469.1298,1.05
+Wadi Degla,1469.1298,1.04
 El Ismaily,1459.4472,0.99
 Chateauroux,1364.336,
 Crusaders,1598.0032,
@@ -1134,7 +1134,7 @@ Smouha,1536.3194,1.1
 Salzburg (Aut),1567.3076,1.05
 Pyramids,1800.1171,1.18
 El Gaish,1514.2223,0.91
-Arab Contractors,1467.429,1.13
+Arab Contractors,1467.429,1.12
 Sigma Olomouc (Cze),1500.7866,1.01
 FK Zorya Luhansk (Ukr),1484.7497,1.07
 Basaksehir (Tur),1568.0912,1.0
@@ -1847,7 +1847,7 @@ Damac,1456.9712,1.1
 Abha,1377.9037,1.27
 APOEL,1521.0471,
 Raja Beni Mellal,1387.7838,0.57
-Aswan SC,1415.8132,1.15
+Aswan SC,1415.8132,1.14
 ZED,1535.2727,1.07
 Tanta,1392.1185,1.05
 Cabinteely,1489.9535,0.92
@@ -2020,7 +2020,7 @@ Asker,1475.643,
 Chabab Mohammedia,1316.3282,1.07
 National Bank Egypt,1569.422,1.13
 Ceramica Cleopatra,1561.2232,1.15
-Ghazl El Mahallah,1447.3893,1.05
+Ghazl El Mahallah,1447.3893,1.06
 Macarthur FC,1464.9069,1.2
 Manta,1449.4238,
 Cesar Vallejo (Per),1438.8484,1.11
@@ -2198,7 +2198,7 @@ Amora,1464.0021,
 Jeunesse Sportive Soualem,1425.5601,0.74
 Alashkert,1470.6418,
 Modern Sport,1539.2253,0.89
-Pharco,1523.204,0.89
+Pharco,1523.204,0.88
 Eastern Company,1478.6228,1.09
 Treaty United,1485.4465,0.96
 Hodd,1427.5882,
