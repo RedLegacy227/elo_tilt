@@ -1,7 +1,7 @@
 Team,Elo,Tilt
 Alashkert,1478.6791,1.02
 The New Saints,1895.629,1.45
-Víkingur,1778.2,1.2
+Víkingur,1770.9676,1.2
 Hibernians,1483.7069,1.0
 Linfield,1745.5731,1.06
 La Fiorita,1486.2964,0.98
@@ -9,36 +9,36 @@ Europa,1487.6964,1.04
 FC Santa Coloma,1493.3926,0.99
 FCI Tallinn,1482.5986,0.99
 Trepça'89,1479.5971,1.03
-Qarabağ,1641.1539,1.14
+Qarabağ,1641.1545,1.14
 Partizan,1745.2946,1.23
-Rijeka,1701.7577,1.04
-Malmö FF,1744.5271,1.13
+Rijeka,1701.7357,1.04
+Malmö FF,1744.5288,1.13
 Zrinjski,1743.5814,1.14
 Spartaks Jūrmala,1482.9685,0.97
-APOEL,1513.1476,0.98
+APOEL,1513.1478,0.98
 Hapoel Be'er Sheva,1773.463,1.13
 Mariehamn,1414.7557,1.08
-Žilina,1605.0575,1.19
+Žilina,1605.0577,1.19
 Dundalk,1564.0057,1.05
 BATE,1553.0579,1.15
 Vardar,1490.5162,1.08
 Budućnost,1728.4456,1.38
-Astana,1661.2214,1.17
+Astana,1661.223,1.17
 Samtredia,1418.918,1.11
-F91 Dudelange,1620.7444,1.23
+F91 Dudelange,1620.7458,1.23
 Rosenborg,1693.2048,1.17
-København,1729.2645,1.16
-Maribor,1706.6941,1.09
-Salzburg,1719.7645,1.21
-Celtic,1783.3415,1.35
+København,1729.2629,1.16
+Maribor,1706.7582,1.09
+Salzburg,1719.7647,1.21
+Celtic,1783.3161,1.35
 Honvéd,1485.6723,1.14
 Legia Warszawa,1654.84,1.22
 Slavia Praha,1890.7694,1.18
-AEK Athens,1704.8021,1.1
+AEK Athens,1704.8027,1.1
 Viitorul,1510.0727,1.07
-Dynamo Kyiv,1782.7133,1.21
-Nice,1732.4454,1.12
-Club Brugge,1781.7987,1.18
+Dynamo Kyiv,1782.7093,1.21
+Nice,1732.4452,1.12
+Club Brugge,1781.7977,1.18
 Siah Jamegan,1451.7892,0.99
 Esteghlal Khuzestan,1481.192,1.01
 Persepolis,1734.8153,1.12
@@ -50,300 +50,300 @@ Orléans,1456.5984,1.09
 Sepahan,1701.3459,1.18
 Nîmes,1376.6783,1.08
 Paris,1592.5329,1.1
-Valenciennes,1435.5198,1.07
-Bochum,1484.2967,1.17
-Brest,1627.2788,1.22
+Valenciennes,1435.5197,1.07
+Bochum,1484.2962,1.17
+Brest,1627.2787,1.22
 Ingolstadt,1497.7815,1.3
 Arminia Bielefeld,1549.3904,1.06
-Darmstadt 98,1477.4141,1.2
+Darmstadt 98,1477.4139,1.2
 Nürnberg,1506.2593,1.19
-Holstein Kiel,1519.2991,1.29
+Holstein Kiel,1519.2987,1.29
 Dynamo Dresden,1582.7835,1.13
-Auxerre,1620.1337,1.14
+Auxerre,1620.1334,1.14
 Fortuna Düsseldorf,1572.1996,1.24
-Young Boys,1668.6845,1.14
-Olympiakos Piraeus,1808.8198,1.14
-Ajax,1767.2089,1.29
+Young Boys,1668.6827,1.14
+Olympiakos Piraeus,1808.8199,1.14
+Ajax,1767.2495,1.29
 İstanbul Başakşehir,1663.5252,1.18
 CSKA Moskva,1531.6875,1.05
 Saipa,1446.7721,0.99
 Foolad,1556.3249,0.96
 Tractor Sazi,1697.4312,1.26
-Le Havre,1526.9794,1.18
+Le Havre,1526.979,1.18
 Châteauroux,1413.7458,1.27
 Ajaccio,1431.8851,1.03
-Lens,1670.3881,1.04
+Lens,1670.3874,1.04
 Sandhausen,1371.3577,1.25
-Clermont,1435.5878,1.08
-Union Berlin,1565.5632,1.02
+Clermont,1435.5877,1.08
+Union Berlin,1565.5625,1.02
 Padideh Khorasan,1449.6142,0.93
 Bourg-en-Bresse,1460.07,0.99
-Kaiserslautern,1533.2578,1.21
-Monaco,1735.3928,1.24
-Nottingham Forest,1676.8105,1.12
-Sunderland,1559.2769,1.0
+Kaiserslautern,1533.2577,1.21
+Monaco,1735.3922,1.24
+Nottingham Forest,1676.7923,1.12
+Sunderland,1559.268,1.0
 Gazélec Ajaccio,1374.7176,1.03
 Nancy,1546.5803,1.2
-Inverness CT,1492.1839,1.06
-Reims,1566.5081,1.0
+Inverness CT,1492.1833,1.06
+Reims,1566.5078,1.0
 Eintracht Braunschweig,1434.1489,1.14
-Ipswich Town,1544.3442,1.21
-Queens Park Rangers,1496.9345,1.09
-Bristol City,1520.7708,1.09
-Sheffield United,1599.1601,1.11
-Kilmarnock,1503.9525,1.08
-Fulham,1664.1215,1.14
+Ipswich Town,1544.3289,1.21
+Queens Park Rangers,1496.9261,1.09
+Bristol City,1520.7621,1.09
+Sheffield United,1599.1505,1.11
+Kilmarnock,1503.9352,1.08
+Fulham,1664.1041,1.14
 MSV Duisburg,1383.8738,1.22
-Burton Albion,1414.2905,1.09
-Preston North End,1473.4955,1.06
-Wolverhampton Wanderers,1606.6023,1.15
+Burton Albion,1414.2893,1.09
+Preston North End,1473.4858,1.06
+Wolverhampton Wanderers,1606.5833,1.15
 Dumbarton,1391.8144,1.09
-Troyes,1485.5841,1.01
+Troyes,1485.584,1.01
 Saint-Étienne,1502.2812,1.23
-Olympique Lyonnais,1717.6948,1.27
-Montpellier,1446.7464,1.12
-St. Mirren,1510.733,1.12
+Olympique Lyonnais,1717.6946,1.27
+Montpellier,1446.746,1.12
+St. Mirren,1510.7136,1.12
 Metz,1603.3352,1.21
-PSG,1915.9857,1.31
+PSG,1915.9837,1.31
 Queen of the South,1383.4058,1.14
-Dundee,1465.765,1.32
-Hibernian,1571.8442,1.17
-Livingston,1484.6012,1.04
-Aston Villa,1780.228,1.15
-Jahn Regensburg,1390.3187,1.09
-Olympique Marseille,1714.1744,1.26
-Bolton Wanderers,1508.5796,1.19
-Angers SCO,1504.6703,1.06
-Aberdeen,1481.1246,1.09
-Greuther Fürth,1484.1514,1.15
-Lille,1771.8117,1.11
-Motherwell,1474.1293,1.16
+Dundee,1465.748,1.32
+Hibernian,1571.8265,1.17
+Livingston,1484.6542,1.04
+Aston Villa,1780.2156,1.15
+Jahn Regensburg,1390.3186,1.09
+Olympique Marseille,1714.1742,1.26
+Bolton Wanderers,1508.5786,1.19
+Angers SCO,1504.67,1.06
+Aberdeen,1481.107,1.09
+Greuther Fürth,1484.1513,1.15
+Lille,1771.8115,1.11
+Motherwell,1474.1162,1.16
 Erzgebirge Aue,1440.8357,1.15
-St. Pauli,1579.0218,1.01
-Heidenheim,1540.6603,1.11
+St. Pauli,1579.0212,1.01
+Heidenheim,1540.6598,1.11
 Naft Tehran,1454.7382,0.98
 Sanat Naft,1434.786,1.07
-Arsenal,1915.184,1.09
-Rennes,1620.1653,1.22
-Partick Thistle,1477.1674,1.13
-Falkirk,1567.7896,1.12
-Chelsea,1758.2371,1.12
-Crystal Palace,1710.6007,1.1
-Everton,1627.339,1.03
-Dundee United,1533.4548,1.1
-Cardiff City,1422.6872,1.14
-Hamilton Academical,1361.0292,1.11
-Watford,1471.9481,1.06
-Greenock Morton,1459.0714,1.11
-Derby County,1516.8377,1.03
-Barnsley,1500.3139,1.27
-Brentford,1689.6115,1.19
-St. Johnstone,1394.183,1.05
-Dunfermline Athletic,1410.5744,1.01
+Arsenal,1915.1709,1.09
+Rennes,1620.1651,1.22
+Partick Thistle,1477.1737,1.13
+Falkirk,1567.796,1.12
+Chelsea,1758.2188,1.12
+Crystal Palace,1710.5829,1.1
+Everton,1627.3414,1.03
+Dundee United,1533.4415,1.1
+Cardiff City,1422.6782,1.14
+Hamilton Academical,1361.0369,1.11
+Watford,1471.9389,1.06
+Greenock Morton,1459.0786,1.11
+Derby County,1516.8315,1.03
+Barnsley,1500.3129,1.27
+Brentford,1689.5761,1.19
+St. Johnstone,1394.1688,1.05
+Dunfermline Athletic,1410.5828,1.01
 Brechin City,1280.969,1.16
-Rangers,1655.5779,1.18
-Reading,1513.4841,1.15
-Sheffield Wednesday,1494.1081,1.14
-Leeds United,1705.7325,1.14
-West Bromwich Albion,1545.4328,1.13
-Hull City,1496.4927,1.03
-Southampton,1462.1445,1.15
-Birmingham City,1622.441,1.04
-Brighton & Hove Albion,1698.999,1.25
-Toulouse,1612.4053,1.08
+Rangers,1655.5452,1.18
+Reading,1513.483,1.15
+Sheffield Wednesday,1494.0989,1.14
+Leeds United,1705.7218,1.14
+West Bromwich Albion,1545.4238,1.13
+Hull City,1496.4835,1.03
+Southampton,1462.1259,1.15
+Birmingham City,1622.4375,1.04
+Brighton & Hove Albion,1698.9801,1.25
+Toulouse,1612.4051,1.08
 Amiens SC,1440.7735,1.09
-Bordeaux,1496.2431,1.15
+Bordeaux,1496.243,1.15
 Caen,1393.7836,1.15
-Millwall,1508.4825,1.01
-Nantes,1540.5157,1.09
-Ross County,1415.3443,1.1
-Middlesbrough,1535.9966,1.11
+Millwall,1508.4741,1.01
+Nantes,1540.5154,1.09
+Ross County,1415.3304,1.1
+Middlesbrough,1535.9878,1.11
 Guingamp,1521.6411,1.18
 Dijon,1488.8512,1.12
-Manchester United,1646.5046,1.1
-Newcastle United,1757.7242,1.23
-Norwich City,1505.0312,1.26
-Strasbourg,1674.4627,1.16
-Lorient,1617.9974,1.23
-Sporting CP,1879.3039,1.31
-Hoffenheim,1576.4226,1.27
-Napoli,1769.7602,1.07
+Manchester United,1646.4871,1.1
+Newcastle United,1757.7058,1.23
+Norwich City,1505.0219,1.26
+Strasbourg,1674.4624,1.16
+Lorient,1617.9973,1.23
+Sporting CP,1879.3028,1.31
+Hoffenheim,1576.4222,1.27
+Napoli,1769.7612,1.07
 Zob Ahan,1552.983,1.0
 Lorca,1419.281,1.08
-Leganés,1541.2951,1.03
-Bayern München,1882.0126,1.41
+Leganés,1541.2948,1.03
+Bayern München,1882.0112,1.41
 CD Tenerife,1442.1528,0.9
-Valencia CF,1604.2067,1.06
-Hamburger SV,1640.7125,1.31
-Hertha BSC,1507.7165,1.23
-Swansea City,1510.4967,1.1
-Wolfsburg,1600.8618,1.15
-AFC Bournemouth,1685.2802,1.09
-Liverpool,1907.0417,1.2
-Celta de Vigo,1614.8143,1.22
-Juventus,1755.5257,1.08
-Burnley,1682.838,0.97
-Stoke City,1477.3562,1.06
-Schalke 04,1471.7635,1.24
+Valencia CF,1604.2061,1.06
+Hamburger SV,1640.7124,1.31
+Hertha BSC,1507.7164,1.23
+Swansea City,1510.4875,1.1
+Wolfsburg,1600.8612,1.15
+AFC Bournemouth,1685.2631,1.09
+Liverpool,1907.0271,1.2
+Celta de Vigo,1614.8136,1.22
+Juventus,1755.5256,1.08
+Burnley,1682.8279,0.97
+Stoke City,1477.347,1.06
+Schalke 04,1471.7634,1.24
 CD Numancia,1438.3523,1.15
-Leicester City,1523.9125,1.12
+Leicester City,1523.8724,1.12
 AD Alcorcón,1466.3356,1.12
-CA Osasuna,1618.5587,1.14
-Sevilla FC,1563.2921,1.13
-Real Valladolid,1414.8231,1.2
+CA Osasuna,1618.558,1.14
+Sevilla FC,1563.2913,1.13
+Real Valladolid,1414.8227,1.2
 Hellas Verona,1534.6785,1.09
-Córdoba,1511.8521,1.26
-Mainz 05,1667.4076,1.11
-Girona FC,1591.6909,1.19
-Real Oviedo,1573.18,1.03
-FC Barcelona,1920.4392,1.44
-Borussia M'gladbach,1592.6374,1.24
-Atalanta,1798.9606,1.22
-Athletic Club Bilbao,1726.4991,1.01
-Freiburg,1627.4144,1.15
-Tottenham Hotspur,1639.4025,1.27
-Huddersfield Town,1444.6058,1.1
-Inter Milan,1930.4283,1.14
+Córdoba,1511.852,1.26
+Mainz 05,1667.4069,1.11
+Girona FC,1591.69,1.19
+Real Oviedo,1573.1799,1.03
+FC Barcelona,1920.4383,1.44
+Borussia M'gladbach,1592.6369,1.24
+Atalanta,1798.9599,1.22
+Athletic Club Bilbao,1726.4985,1.01
+Freiburg,1627.4136,1.15
+Tottenham Hotspur,1639.3843,1.27
+Huddersfield Town,1444.6023,1.1
+Inter Milan,1930.4281,1.14
 Gimnàstic de Tarragona,1524.8588,1.09
 Deportivo La Coruña,1538.3037,1.14
-Granada CF,1529.8383,1.21
-Bologna,1696.9751,1.12
-Udinese,1544.582,1.12
+Granada CF,1529.8382,1.21
+Bologna,1696.975,1.12
+Udinese,1544.5819,1.12
 Sassuolo,1586.3053,1.26
 Sampdoria,1459.9021,1.07
-Lazio,1716.6544,1.15
+Lazio,1716.6541,1.15
 Crotone,1378.5254,1.17
 CD Lugo,1411.3771,1.1
-Levante UD,1603.0612,1.16
-Manchester City,1876.5899,1.23
-Málaga CF,1499.5445,0.91
+Levante UD,1603.0611,1.16
+Manchester City,1876.5773,1.23
+Málaga CF,1499.5444,0.91
 FCSB,1740.2793,1.1
 Quevilly Rouen,1430.1166,1.13
 Albacete Balompié,1498.7389,1.19
-Real Sociedad,1613.0725,1.02
-Köln,1587.6887,1.05
+Real Sociedad,1613.0718,1.02
+Köln,1587.6885,1.05
 Parma,1567.9889,1.09
-Real Betis,1669.6742,1.2
-Eintracht Frankfurt,1691.2502,1.18
-Bayer Leverkusen,1806.9258,1.23
-Augsburg,1560.6489,1.09
-Stuttgart,1696.0992,1.25
-Werder Bremen,1613.8501,1.23
-SD Huesca,1510.9168,0.98
+Real Betis,1669.6737,1.2
+Eintracht Frankfurt,1691.2495,1.18
+Bayer Leverkusen,1806.9249,1.23
+Augsburg,1560.6483,1.09
+Stuttgart,1696.0986,1.25
+Werder Bremen,1613.8495,1.23
+SD Huesca,1510.9167,0.98
 Cultural y Deportiva Leonesa,1527.5455,1.1
-Deportivo Alavés,1575.7593,0.99
+Deportivo Alavés,1575.7586,0.99
 Benevento,1423.931,1.1
-Genoa,1617.5281,1.05
-Borussia Dortmund,1801.76,1.27
-Venezia,1532.1644,1.1
-UD Las Palmas,1501.4757,1.09
-Almería,1537.3787,1.27
+Genoa,1617.5284,1.05
+Borussia Dortmund,1801.7579,1.27
+Venezia,1532.1645,1.1
+UD Las Palmas,1501.4752,1.09
+Almería,1537.3784,1.27
 Roma,1734.8502,1.14
-Rayo Vallecano,1583.9081,0.98
+Rayo Vallecano,1583.9074,0.98
 Sevilla II,1451.1095,1.07
 Pro Vercelli,1430.5169,1.14
-Ternana,1412.3032,1.09
+Ternana,1412.3033,1.09
 Carpi,1378.3576,1.16
 Virtus Entella,1336.2047,1.14
 Palermo,1506.4459,1.14
-Cittadella,1395.0712,1.01
+Cittadella,1395.0711,1.01
 Avellino,1461.0726,1.08
-RB Leipzig,1712.5572,1.13
+RB Leipzig,1712.555,1.13
 Pescara,1359.8709,1.09
-Hannover 96,1535.7173,1.03
-SD Eibar,1538.7609,1.06
+Hannover 96,1535.7172,1.03
+SD Eibar,1538.7608,1.06
 Torino,1620.0627,0.96
-AC Milan,1741.7438,1.15
-RCD Espanyol,1576.6472,1.08
-Sporting Gijón,1488.5038,1.13
-Getafe CF,1555.1042,0.96
-Cádiz,1513.9258,1.13
+AC Milan,1741.7435,1.15
+RCD Espanyol,1576.6468,1.08
+Sporting Gijón,1488.5036,1.13
+Getafe CF,1555.1037,0.96
+Cádiz,1513.9257,1.13
 SPAL,1413.9266,1.11
 CF Reus Deportiu,1435.7895,0.86
 Chievo,1495.6447,1.08
-Real Madrid,1888.5551,1.22
-Real Zaragoza,1466.1278,1.15
-Fiorentina,1713.3671,1.14
+Real Madrid,1888.5519,1.22
+Real Zaragoza,1466.1277,1.15
+Fiorentina,1713.3673,1.14
 Bari 1908,1472.596,1.05
 Barcelona II,1496.2498,1.26
-Brescia,1431.9912,1.1
+Brescia,1431.9913,1.1
 Perugia,1433.9997,1.12
 Foggia,1471.2365,1.12
-Empoli,1515.5031,1.07
+Empoli,1515.5035,1.07
 Cesena,1484.9538,1.06
 Ascoli,1450.5001,1.0
-Cremonese,1554.236,1.14
-Frosinone,1464.9985,1.09
+Cremonese,1554.0294,1.12
+Frosinone,1464.9986,1.09
 Novara,1452.6959,1.02
-Spezia,1554.5517,1.08
+Spezia,1554.7586,1.06
 Salernitana,1413.9544,1.07
-Hearts,1585.6898,1.08
+Hearts,1585.6688,1.08
 Cagliari,1538.8456,1.1
-Villarreal,1722.3785,1.28
-Benfica,1859.6882,1.28
-Porto,1816.2654,1.11
-Shakhtar Donetsk,1742.6027,1.24
-Feyenoord,1795.6786,1.23
-Atlético Madrid,1818.5919,1.18
-West Ham United,1616.5051,1.14
+Villarreal,1722.3777,1.28
+Benfica,1859.6881,1.28
+Porto,1816.2648,1.11
+Shakhtar Donetsk,1742.6011,1.24
+Feyenoord,1795.6872,1.23
+Atlético Madrid,1818.5904,1.18
+West Ham United,1616.4862,1.14
 Spartak Moskva,1481.5491,1.05
-Beşiktaş,1639.1501,1.04
-RSC Anderlecht,1665.4073,1.07
-Basel,1698.6351,1.23
-Olimpia,1561.4981,1.12
-Carabobo,1452.8146,1.01
-Banfield,1428.9579,0.91
-Santiago Wanderers,1527.1227,1.13
-Univ. Concepción,1525.0963,1.09
-Deportivo Táchira,1435.164,1.15
-Ñublense,1533.257,1.04
-Guaraní,1566.7555,1.04
-CSD Independiente del Valle,1562.9585,1.16
-Melgar,1464.9886,1.04
-Vasco da Gama,1574.8517,1.14
-Santa Fe,1513.4658,0.97
-Junior,1503.0039,1.01
-Puerto Montt,1469.384,1.06
-Cobreloa,1506.2232,1.12
-Unión San Felipe,1412.5821,1.04
+Beşiktaş,1639.1502,1.04
+RSC Anderlecht,1665.4074,1.07
+Basel,1698.6337,1.23
+Olimpia,1574.037,1.13
+Carabobo,1452.8159,1.01
+Banfield,1428.9457,0.91
+Santiago Wanderers,1527.1242,1.13
+Univ. Concepción,1525.097,1.09
+Deportivo Táchira,1433.193,1.13
+Ñublense,1533.2818,1.04
+Guaraní,1566.7562,1.04
+CSD Independiente del Valle,1562.9576,1.16
+Melgar,1464.9892,1.04
+Vasco da Gama,1574.8529,1.14
+Santa Fe,1513.4681,0.97
+Junior,1503.0063,1.01
+Puerto Montt,1469.3799,1.06
+Cobreloa,1506.2366,1.12
+Unión San Felipe,1412.5816,1.04
 Wilstermann,1478.8583,1.09
 Deportes Valdivia,1408.4942,1.22
-Barnechea,1548.7347,1.22
-Santiago Morning,1473.9166,1.06
-Defensor Sporting,1588.2216,1.04
-Colo-Colo,1638.962,1.08
-Flamengo,1739.432,1.04
-Millonarios,1494.9491,1.02
+Barnechea,1548.7407,1.22
+Santiago Morning,1473.9169,1.06
+Defensor Sporting,1588.2543,1.04
+Colo-Colo,1643.3073,1.07
+Flamengo,1741.4096,1.03
+Millonarios,1494.9509,1.02
 Real Garcilaso,1497.2081,0.97
 Deportivo Lara,1412.3609,1.13
-Alianza Lima,1436.5268,1.09
-Melipilla,1439.6209,1.15
-Coquimbo Unido,1581.2061,0.97
-Atlético Tucumán,1487.6406,1.17
-Cerro Porteño,1596.6987,1.1
-Estudiantes,1560.1234,1.2
-Bolívar,1538.9483,1.2
-Corinthians,1652.3461,1.15
-Atlético Nacional,1532.7323,1.04
-CS Emelec,1506.2993,1.05
-The Strongest,1496.0311,1.04
-Independiente,1593.6239,0.95
+Alianza Lima,1436.5271,1.09
+Melipilla,1439.6286,1.15
+Coquimbo Unido,1581.2317,0.97
+Atlético Tucumán,1487.6311,1.17
+Cerro Porteño,1578.2944,1.11
+Estudiantes,1560.1169,1.2
+Bolívar,1557.3571,1.21
+Corinthians,1652.3471,1.15
+Atlético Nacional,1528.8523,1.03
+CS Emelec,1506.2994,1.05
+The Strongest,1496.0451,1.04
+Independiente,1593.613,0.95
 Tampa Bay Rowdies,1498.9406,1.14
-La Serena,1573.7875,1.04
+La Serena,1573.813,1.04
 Real Monarchs,1497.05,1.1
 New York RB II,1493.9189,1.32
 Louisville City,1662.5264,1.25
-Copiapó,1512.132,1.2
-Magallanes,1542.7112,1.05
-Libertad,1582.6943,1.08
-Palmeiras,1777.174,1.11
-Peñarol,1707.4558,1.09
-Boca Juniors,1618.7518,0.93
-Cruzeiro,1651.6491,0.99
-River Plate,1582.0406,1.04
-Zhetysu,1426.1634,1.01
+Copiapó,1512.1503,1.2
+Magallanes,1542.7202,1.05
+Libertad,1582.694,1.08
+Palmeiras,1782.8085,1.14
+Peñarol,1702.8767,1.07
+Boca Juniors,1618.7236,0.93
+Cruzeiro,1651.6508,0.99
+River Plate,1582.0458,1.04
+Zhetysu,1426.1635,1.01
 Irtysh,1428.5364,1.08
-Ordabasy,1596.8163,1.13
+Ordabasy,1596.8165,1.13
 VPS,1589.0658,1.17
 SJK,1549.7043,1.2
 Richmond Kickers,1490.6941,1.04
@@ -352,110 +352,110 @@ KuPS,1696.2445,1.05
 HJK,1657.8097,1.15
 RoPS,1354.7449,1.11
 Philadelphia Union II,1473.8853,1.36
-Atlético GO,1505.193,1.09
+Atlético GO,1505.1939,1.09
 Oeste,1318.9035,1.05
-Figueirense,1461.5084,1.12
-Fortaleza,1647.2157,1.1
-Vila Nova,1496.1647,1.04
+Figueirense,1461.5085,1.12
+Fortaleza,1639.8437,1.09
+Vila Nova,1496.1651,1.04
 Tupi,1483.1645,1.09
-Londrina,1504.6407,1.13
+Londrina,1504.6408,1.13
 Brasil de Pelotas,1368.5223,0.98
-Vitória,1575.867,1.09
-Ponte Preta,1438.611,1.02
-Santos,1565.2857,1.1
+Vitória,1575.8683,1.09
+Ponte Preta,1438.6112,1.02
+Santos,1565.2865,1.1
 TPS,1420.8483,1.12
 PS Kemi,1417.7475,1.08
 Ilves,1651.3255,1.17
-Sampaio Corrêa,1447.8331,1.05
+Sampaio Corrêa,1447.8332,1.05
 Joinville,1413.1972,1.05
 Honka,1594.5727,1.06
-Internacional,1674.6211,1.15
+Internacional,1680.0861,1.15
 Salgueiro,1495.8877,0.95
-Atlético PR,1555.2943,1.15
-São Paulo,1663.4502,1.04
-Coritiba,1498.6705,1.12
+Atlético PR,1555.2954,1.15
+São Paulo,1663.4491,1.04
+Coritiba,1498.671,1.12
 Boa,1434.257,1.05
 Sacramento Republic,1584.536,1.04
 Portland Timbers II,1425.8318,1.41
-Universidad Chile,1634.246,1.15
-Juventude,1529.9669,1.2
-Paysandu,1464.7088,1.09
+Universidad Chile,1634.2716,1.15
+Juventude,1529.9684,1.2
+Paysandu,1464.709,1.09
 Inter Turku,1608.9318,1.11
 Tombense,1467.896,1.11
-Volta Redonda,1543.0156,1.12
-Bragantino,1626.5176,1.04
-CRB,1488.0373,1.07
-Goiás,1600.352,1.12
-Guarani,1433.9509,1.06
-Avaí,1527.5527,0.98
-Bahia,1607.3157,1.04
-FC Cincinnati,1540.4925,1.16
-Criciúma,1504.441,1.09
+Volta Redonda,1543.0157,1.12
+Bragantino,1626.5191,1.04
+CRB,1488.0378,1.07
+Goiás,1600.3527,1.12
+Guarani,1433.951,1.06
+Avaí,1527.5532,0.98
+Bahia,1601.8568,1.04
+FC Cincinnati,1538.3151,1.19
+Criciúma,1504.4421,1.09
 Paraná,1398.8279,1.0
-Confiança,1422.5936,1.07
-Fluminense,1636.4883,1.05
-Chapecoense,1476.2834,1.04
-Atlético Mineiro,1626.5474,1.07
-Ceará,1581.012,1.08
-Grêmio,1591.2401,1.15
-Shabab Al Ordon,1480.5935,1.16
-Kaisar,1484.1992,1.11
+Confiança,1422.5937,1.07
+Fluminense,1636.4913,1.05
+Chapecoense,1476.2835,1.04
+Atlético Mineiro,1626.5501,1.07
+Ceará,1581.0125,1.08
+Grêmio,1591.2416,1.15
+Shabab Al Ordon,1480.5948,1.16
+Kaisar,1484.1993,1.11
 Atyrau,1478.465,1.07
-Botafogo SP,1439.096,1.07
+Botafogo SP,1442.0983,1.07
 Santa Cruz,1489.8159,1.07
 Charleston Battery,1645.1633,1.29
 Toronto II,1458.6923,1.15
 São Bento,1439.9517,1.12
 Luverdense,1466.4107,1.01
-América Mineiro,1519.2129,1.14
-Botafogo PB,1531.0955,1.02
+América Mineiro,1519.2136,1.14
+Botafogo PB,1531.0956,1.02
 Ottawa Fury,1508.0254,1.03
 Rio Grande Valley,1518.5114,1.08
 Delfin SC,1492.1243,1.07
-Remo,1529.9437,0.99
-Cuiabá,1543.7662,1.0
+Remo,1529.9439,0.99
+Cuiabá,1543.7674,1.0
 Saint Louis,1504.7829,1.02
-ABC,1449.5427,1.05
+ABC,1449.5428,1.05
 Ypiranga Erechim,1496.5513,1.16
-Aktobe,1646.2071,1.18
+Aktobe,1646.2072,1.18
 Tulsa Roughnecks,1485.8158,1.05
 Akzhayik,1456.5932,0.95
 San Antonio,1525.5436,1.13
 Reno 1868,1585.042,1.19
-Botafogo,1746.0668,1.05
-Torpedo Kutaisi,1548.5341,1.11
+Botafogo,1746.0702,1.05
+Torpedo Kutaisi,1535.2302,1.11
 Cork City,1531.5173,1.1
 Shkendija,1714.8074,1.14
 Drita,1474.8601,1.02
-Tallinna FC Flora,1719.2172,1.19
+Tallinna FC Flora,1719.2201,1.19
 Sūduva,1476.4333,1.02
-Spartak Trnava,1614.8749,1.06
-Ludogorets,1805.1645,1.18
+Spartak Trnava,1614.8751,1.06
+Ludogorets,1805.1651,1.18
 Kukësi,1485.4589,0.97
-Olimpija,1701.6914,1.07
-Valur,1646.5891,1.34
-Vejle,1430.361,1.16
-SønderjyskE,1435.2164,1.21
-Midtjylland,1693.336,1.24
-CSA,1491.2794,0.92
+Olimpija,1701.7214,1.07
+Valur,1653.2499,1.33
+Vejle,1430.36,1.16
+SønderjyskE,1435.2157,1.21
+Midtjylland,1693.3343,1.24
+CSA,1491.2795,0.92
 Vendsyssel,1448.2733,1.12
-Nordsjælland,1611.3893,1.2
-Randers,1561.9261,1.25
+Nordsjælland,1611.388,1.2
+Randers,1561.9249,1.25
 Valletta,1495.5257,1.01
-Red Star Belgrade,1920.0983,1.42
+Red Star Belgrade,1920.0981,1.42
 Crusaders,1569.0835,1.12
-Sheriff,1618.5159,1.0
+Sheriff,1618.5168,1.0
 Sutjeska,1575.4487,1.12
 Jagiellonia Białystok,1675.2259,1.24
 Chojniczanka Chojnice,1367.993,1.2
-Lausanne Sport,1582.4626,1.14
+Lausanne Sport,1582.4615,1.14
 Cherno More,1667.0489,0.98
 Vitosha Bistritsa,1328.671,1.1
 CFR Cluj,1704.6985,1.19
 Esbjerg,1397.8707,1.17
-Gorica,1479.0361,1.06
+Gorica,1479.0018,1.06
 Jastrzębie,1372.4226,1.16
-Ružomberok,1491.2915,1.11
+Ružomberok,1491.2917,1.11
 Mezőkövesd-Zsóry,1496.7219,1.12
 Čukarički,1618.947,1.12
 Śląsk Wrocław,1564.4719,1.13
@@ -468,60 +468,60 @@ Wil,1453.4282,1.22
 Odra Opole,1400.2834,1.13
 Rapperswil-Jona,1446.2703,1.13
 GKS Katowice,1587.4617,1.19
-Wisła Kraków,1586.9344,1.24
+Wisła Kraków,1579.1615,1.22
 Senica,1439.8814,1.04
-Luzern,1558.0557,1.22
+Luzern,1558.0546,1.22
 Botev Plovdiv,1542.6812,1.12
-Aarau,1531.7383,1.2
+Aarau,1531.7382,1.2
 Raków Częstochowa,1725.3588,1.03
 Astra,1478.0997,1.1
-Mura,1491.4558,1.1
-Zorya,1565.4011,1.11
-Domžale,1489.9866,1.2
-Karpaty,1450.8157,1.08
+Mura,1491.4677,1.1
+Zorya,1565.4004,1.11
+Domžale,1490.0156,1.2
+Karpaty,1450.8154,1.08
 Dinamo Bucureşti,1531.649,1.07
-Horsens,1371.842,1.18
-CSKA Sofia,1722.2433,1.12
+Horsens,1371.841,1.18
+CSKA Sofia,1722.2434,1.12
 Górnik Zabrze,1594.0287,1.08
 Újpest,1545.7554,1.12
-Podbrezová,1505.8449,1.14
+Podbrezová,1505.845,1.14
 Radnik Surdulica,1595.4812,0.97
 Zlaté Moravce,1327.3878,1.11
-Zürich,1567.5368,1.15
+Zürich,1567.5356,1.15
 Arsenal Kyiv,1439.1937,1.13
-Sion,1535.9423,1.1
+Sion,1535.9413,1.1
 Chiasso,1372.7591,1.05
-AGF,1541.9713,1.18
+AGF,1541.9702,1.18
 Rudar,1384.1123,1.12
-OB,1465.9539,1.11
+OB,1465.9529,1.11
 Slavia Sofia,1495.3992,1.17
 CS U Craiova,1657.8626,1.11
 Spartak Subotica,1519.9769,1.07
 Hobro,1421.1073,1.11
-Chornomorets,1423.1859,1.1
+Chornomorets,1423.1857,1.1
 Gaz Metan Mediaş,1335.6484,1.24
 Zagłębie Sosnowiec,1340.9124,1.03
-Dinamo Zagreb,1734.1683,1.22
-PAOK,1728.4319,1.28
+Dinamo Zagreb,1734.1553,1.22
+PAOK,1728.4321,1.28
 Desna,1523.9438,1.14
 Dunav 2010,1395.5085,1.13
 Wiener Neustadt,1496.4115,1.13
-Austria Klagenfurt,1452.3022,1.24
+Austria Klagenfurt,1452.3023,1.24
 Kapfenberger SV,1423.4985,1.25
 Vorwärts Steyr,1387.9094,1.15
-Red Star,1481.705,1.1
-Standard Liège,1486.9612,0.95
+Red Star,1481.7049,1.1
+Standard Liège,1486.9614,0.95
 Machine Sazi,1389.0918,1.05
 Etar,1337.9932,1.12
 Austria Wien,1644.0509,1.03
-Winterthur,1502.3665,1.19
+Winterthur,1502.3654,1.19
 Lechia Gdańsk,1521.9946,1.17
 Warta Poznań,1400.1724,1.05
 Botoşani,1469.177,1.08
 Grenoble Foot 38,1465.0906,1.08
 Horn,1406.7253,1.21
-KV Oostende,1404.6014,1.12
-Lokomotiva Zagreb,1569.826,1.14
+KV Oostende,1404.6015,1.12
+Lokomotiva Zagreb,1569.8013,1.14
 FC Schaffhausen,1349.5822,1.13
 Podbeskidzie,1379.7459,1.14
 Aalen,1422.1748,1.14
@@ -529,42 +529,42 @@ Zwickau,1410.2745,1.17
 Bytovia Bytów,1477.9729,1.14
 Triglav,1374.9584,1.35
 CSM Iaşi,1468.9221,1.04
-Grasshopper,1511.7001,1.04
-Sint-Truiden,1517.9283,1.16
-Beroe,1487.8806,1.05
+Grasshopper,1511.6989,1.04
+Sint-Truiden,1517.9285,1.16
+Beroe,1487.8807,1.05
 Wattens,1467.9882,1.11
 Sereď,1442.144,1.11
 Rad Beograd,1376.6735,1.21
 Tychy 71,1553.7484,1.14
-Neuchâtel Xamax,1448.7757,1.22
+Neuchâtel Xamax,1448.7756,1.22
 Mačva Šabac,1500.3902,0.91
 Debrecen,1578.6489,1.21
 Proleter Novi Sad,1440.5048,0.97
-Oleksandria,1581.9385,1.08
+Oleksandria,1581.938,1.08
 Zulte-Waregem,1537.2985,1.23
 Rheindorf Altach,1445.127,1.0
 Wigry Suwałki,1375.5135,1.09
-Sturm Graz,1721.8912,1.14
+Sturm Graz,1721.8913,1.14
 Fortuna Köln,1448.0233,1.1
 Zemun,1476.5126,1.16
 Kriens,1262.0813,1.18
 ŁKS Łódź,1470.7085,1.18
-Zagłębie Lubin,1510.6819,1.08
+Zagłębie Lubin,1510.6818,1.08
 Dunărea Călăraşi,1433.7705,0.91
 Korona Kielce,1565.2787,1.06
 Carl Zeiss Jena,1369.3306,1.23
-KV Kortrijk,1442.4083,1.14
-Istra 1961,1583.3758,1.04
+KV Kortrijk,1442.4086,1.14
+Istra 1961,1583.3505,1.04
 Bačka Palanka,1378.5128,1.05
 Admira,1536.4832,1.11
-Trenčín,1491.1471,1.14
+Trenčín,1491.1472,1.14
 Szombathelyi Haladás,1444.1396,1.18
 MTK,1584.5856,1.26
 Mariupol,1384.7859,1.24
 Lech Poznań,1728.2611,1.14
-St. Gallen,1561.9082,1.1
+St. Gallen,1561.9069,1.1
 Olimpik Donetsk,1399.1893,1.13
-Lugano,1580.1267,1.13
+Lugano,1580.1253,1.13
 Thun,1585.0713,1.21
 Uerdingen,1434.8146,1.04
 Energie Cottbus,1498.7163,1.18
@@ -572,188 +572,188 @@ Amstetten,1444.1938,1.19
 Sepsi,1526.0288,1.13
 Lokomotiv Plovdiv,1496.7765,1.1
 Vaduz,1469.7085,1.17
-Slovan Bratislava,1719.1051,1.31
+Slovan Bratislava,1719.1058,1.31
 St. Pölten,1523.5632,1.18
-DAC,1657.5043,1.08
+DAC,1657.5045,1.08
 Puszcza Niepołomice,1498.2206,1.13
 KSC Lokeren,1374.1908,1.11
 Krško,1390.7436,1.07
-Sporting Charleroi,1577.182,1.06
+Sporting Charleroi,1584.9317,1.06
 Arka Gdynia,1644.0849,1.13
-Osijek,1568.1292,1.14
+Osijek,1568.1054,1.14
 Concordia Chiajna,1397.8487,1.13
-Levski Sofia,1723.7946,1.07
+Levski Sofia,1723.7947,1.07
 Voluntari,1477.3118,1.11
 Sportfreunde Lotte,1428.7313,0.99
-Al Ittihad,1594.5704,1.02
-El Daklyeh FC,1404.3342,1.0
+Al Ittihad,1591.8683,1.02
+El Daklyeh FC,1404.3227,1.0
 Videoton,1547.8681,1.02
 Béziers,1415.9961,1.11
 Liefering,1481.8635,1.2
-Blau-Weiß Linz,1547.4311,1.07
+Blau-Weiß Linz,1547.431,1.07
 Lyon Duchère,1431.4824,1.21
-Wigan Athletic,1477.1052,0.94
-Coventry City,1553.1441,1.14
-Shrewsbury Town,1319.0642,1.1
+Wigan Athletic,1477.104,0.94
+Coventry City,1553.1352,1.14
+Shrewsbury Town,1319.0632,1.1
 Walsall,1452.7376,1.15
-Mansfield Town,1471.4088,1.2
-Cheltenham Town,1382.378,1.15
-Crewe Alexandra,1411.0126,0.99
-Exeter City,1424.7566,1.08
+Mansfield Town,1471.4079,1.2
+Cheltenham Town,1382.3778,1.15
+Crewe Alexandra,1411.0125,0.99
+Exeter City,1424.7557,1.08
 Oldham Athletic,1355.9715,1.2
-Fleetwood Town,1401.1635,1.14
+Fleetwood Town,1401.1634,1.14
 Mamelodi Sundowns,1794.986,1.21
-Stevenage,1460.4089,0.94
-Port Vale,1468.9588,1.08
-Vorskla,1446.5195,1.05
-Swindon Town,1441.6327,1.23
+Stevenage,1460.408,0.94
+Port Vale,1468.9587,1.08
+Vorskla,1446.5191,1.05
+Swindon Town,1441.6326,1.23
 Accrington Stanley,1351.6,1.14
-Ayr United,1512.8427,1.15
+Ayr United,1512.8479,1.15
 Austria Lustenau,1450.2245,0.97
-Al Gharafa,1611.3673,1.31
+Al Gharafa,1611.3834,1.31
 Mattersburg,1436.1224,1.11
 Bury,1535.2859,1.13
 Grimsby Town,1392.2387,1.15
-Northampton Town,1432.322,1.07
+Northampton Town,1432.3208,1.07
 Notts County,1451.0549,1.14
 Bidvest Wits,1559.2387,1.03
 Piast Gliwice,1599.6897,0.96
 Wacker Innsbruck,1501.4698,1.11
-Rapid Wien,1599.9315,1.1
-Magdeburg,1544.2923,1.23
+Rapid Wien,1590.6068,1.11
+Magdeburg,1544.2922,1.23
 AFC Tubize,1412.0494,1.07
-Al Shahaniya,1459.466,1.13
-Al Kharitiyath,1381.7412,1.11
-Al Rayyan,1624.0776,1.25
+Al Shahaniya,1459.4718,1.13
+Al Kharitiyath,1381.7556,1.11
+Al Rayyan,1624.0914,1.25
 Nitra,1441.4524,1.05
-El Geish,1507.0693,0.88
+El Geish,1508.3555,0.88
 Hansa Rostock,1487.9693,1.03
-Al Mokawloon,1461.1997,1.14
+Al Mokawloon,1461.188,1.14
 Nassaji Mazandaran,1432.6724,0.93
 Highlands Park,1495.6933,1.07
-Paderborn,1553.4625,1.16
+Paderborn,1553.4624,1.16
 CS Constantine,1608.2038,1.15
-Willem II,1503.3193,1.13
+Willem II,1503.325,1.13
 Sandecja Nowy Sącz,1386.0649,1.06
-Altay,1305.026,1.12
+Altay,1305.0259,1.12
 Adanaspor,1360.1326,1.08
-PSV,1890.7959,1.48
+PSV,1890.7985,1.48
 CD Tondela,1561.1658,1.07
-Rotherham United,1422.2034,1.14
-Blackburn Rovers,1504.3146,1.05
+Rotherham United,1422.1998,1.14
+Blackburn Rovers,1504.3052,1.05
 Alloa Athletic,1376.519,1.21
 FC Penafiel,1463.4789,1.13
 Giresunspor,1296.9714,1.13
 Moreirense FC,1594.5879,1.11
-Sporting Braga,1763.0539,1.17
+Sporting Braga,1763.0538,1.17
 CD Feirense,1465.1152,1.04
 Portimonense,1421.8224,1.13
 İstanbulspor,1493.5744,1.14
 Fenerbahçe,1848.6247,1.33
 Nogoom El Mostakbal FC,1430.4296,1.09
 Orlando Pirates,1650.0001,1.11
-Misr Lel Makasa,1362.7575,1.03
-Dordrecht,1509.4319,1.17
+Misr Lel Makasa,1362.7558,1.03
+Dordrecht,1509.4332,1.17
 Maritzburg United,1445.0028,1.01
 Ümraniyespor,1481.9807,1.06
 Floridsdorfer AC,1481.41,1.0
 Elazığspor,1411.5585,1.14
 JS Saoura,1558.7044,1.1
-RKC Waalwijk,1498.2877,1.17
+RKC Waalwijk,1498.2963,1.17
 Stal Mielec,1507.4862,1.13
-NEC,1621.4229,1.16
-Go Ahead Eagles,1623.903,1.17
-PSV II,1288.2606,1.4
-Roda JC,1458.7094,1.07
-MVV,1372.0051,1.16
-Volendam,1521.1064,1.37
-Groningen,1547.2847,1.05
+NEC,1621.4328,1.16
+Go Ahead Eagles,1623.913,1.17
+PSV II,1288.2621,1.4
+Roda JC,1458.7108,1.07
+MVV,1372.0066,1.16
+Volendam,1521.1114,1.37
+Groningen,1547.2914,1.05
 Garbarnia Kraków,1396.8323,1.02
 Polokwane City,1470.0139,0.85
 Antalyaspor,1531.4134,1.07
 Ferencváros,1784.6797,1.1
 GD Chaves,1523.0629,1.06
-Wycombe Wanderers,1563.4359,1.03
-Zemplín Michalovce,1452.2516,1.27
-Heracles,1514.9076,1.2
+Wycombe Wanderers,1563.435,1.03
+Zemplín Michalovce,1452.2517,1.27
+Heracles,1514.9163,1.2
 CD Mafra,1400.4444,1.05
-NAC Breda,1472.435,1.13
-VVV,1342.4776,1.08
-Botev Vratsa,1371.8795,1.18
+NAC Breda,1472.4405,1.13
+VVV,1342.4792,1.08
+Botev Vratsa,1371.8796,1.18
 Cape Town City,1493.2709,0.98
-Elche CF,1564.6747,1.04
+Elche CF,1564.6746,1.04
 Marignane Gignac,1474.9065,1.05
-Cercle Brugge,1526.044,1.11
-Boavista FC,1432.4771,1.12
+Cercle Brugge,1526.0442,1.11
+Boavista FC,1432.477,1.12
 Chippa United,1485.7974,0.95
-Aluminij,1419.887,1.2
+Aluminij,1419.9074,1.21
 BB Erzurumspor,1514.3563,0.97
-Royal Antwerp FC,1610.8808,1.08
-FC Arouca,1579.0865,1.12
-Emmen,1432.2251,1.1
-KRC Genk,1711.6514,1.11
+Royal Antwerp FC,1603.1313,1.08
+FC Arouca,1579.0864,1.12
+Emmen,1432.2271,1.1
+KRC Genk,1711.6515,1.11
 Adana Demirspor,1445.211,1.25
-LASK Linz,1645.3821,1.06
-Famalicão,1612.358,1.07
+LASK Linz,1654.7066,1.07
+Famalicão,1612.3578,1.07
 Stade Gabésien,1480.5371,1.04
-Rio Ave FC,1562.7732,1.1
-OH Leuven,1490.6798,1.05
-Leixões,1435.853,0.98
-Heerenveen,1548.3863,1.21
-Brøndby,1647.6145,1.26
-CD Nacional,1570.8024,1.06
-AS Eupen,1366.9105,1.18
-Rudeš,1424.0875,1.09
+Rio Ave FC,1562.7731,1.1
+OH Leuven,1490.68,1.05
+Leixões,1435.8529,0.98
+Heerenveen,1548.3961,1.21
+Brøndby,1647.6132,1.26
+CD Nacional,1570.8023,1.06
+AS Eupen,1366.9106,1.18
+Rudeš,1424.0756,1.09
 Afjet Afyonspor,1422.6801,1.13
 Akhisar Belediyespor,1415.5429,1.17
 Lafnitz,1355.6323,1.41
-RCD Mallorca,1566.0871,0.97
-Hajduk Split,1684.5569,1.09
+RCD Mallorca,1566.0863,0.97
+Hajduk Split,1684.5349,1.09
 Alanyaspor,1579.2583,1.1
 Gazişehir Gaziantep,1589.4273,1.08
 Belenenses,1408.0143,1.08
 Kasımpaşa,1578.4408,1.35
-AZ II,1412.9643,1.22
+AZ II,1412.9656,1.22
 Vereya,1369.2782,1.08
-Al Ahly,1845.9427,1.21
-Plymouth Argyle,1432.7426,1.19
+Al Ahly,1845.9287,1.21
+Plymouth Argyle,1432.7333,1.19
 Yeovil Town,1404.2852,1.05
 AFC Wimbledon,1477.2707,0.94
-Newport County,1343.8298,1.14
+Newport County,1343.8297,1.14
 Macclesfield Town,1414.9685,1.07
 Doncaster Rovers,1521.2402,1.14
-Luton Town,1458.9824,1.13
+Luton Town,1458.9723,1.13
 Forest Green Rovers,1323.6103,1.07
-Oxford United,1481.365,1.1
-Blackpool,1554.6666,1.15
-Milton Keynes Dons,1358.4477,1.16
-Charlton Athletic,1604.0247,1.09
+Oxford United,1481.359,1.1
+Blackpool,1554.6655,1.15
+Milton Keynes Dons,1358.4475,1.16
+Charlton Athletic,1604.0236,1.09
 Tranmere Rovers,1364.3156,1.13
-Morecambe,1302.5506,1.1
-Crawley Town,1421.9137,1.22
+Morecambe,1302.5504,1.1
+Crawley Town,1421.9127,1.22
 Rochdale,1364.8186,1.17
-Bristol Rovers,1366.9576,1.12
-Carlisle United,1322.4426,1.11
+Bristol Rovers,1366.9567,1.12
+Carlisle United,1322.4425,1.11
 Colchester United,1438.2025,0.98
-Cambridge United,1398.2395,1.06
-Lincoln City,1525.0768,1.09
+Cambridge United,1398.2384,1.06
+Lincoln City,1525.0759,1.09
 ES Tunis,1767.5434,1.21
 Hapoel Afula,1344.5341,1.1
-Sparta Rotterdam,1584.7818,1.02
+Sparta Rotterdam,1584.7908,1.02
 Extremadura UD,1434.6704,1.1
-Oss,1275.3165,0.99
+Oss,1275.318,0.99
 CS Marítimo,1516.8276,1.09
-Den Bosch,1374.0325,1.12
+Den Bosch,1374.034,1.12
 Boulogne,1485.4268,1.1
-Ismaily SC,1470.538,0.97
-ADO Den Haag,1488.5685,1.12
-Ajax II,1332.0389,1.09
-Servette,1640.1163,1.18
-Almere City,1445.9284,1.03
-Eindhoven,1382.5266,1.13
-Cambuur,1443.2832,1.2
+Ismaily SC,1469.5023,0.97
+ADO Den Haag,1488.57,1.12
+Ajax II,1332.0404,1.09
+Servette,1640.1132,1.18
+Almere City,1445.9369,1.03
+Eindhoven,1382.5281,1.13
+Cambuur,1443.2855,1.2
 Rodez,1493.9022,1.23
-Telstar,1424.0628,1.17
+Telstar,1424.0642,1.17
 Wolfsberger AC,1645.6942,1.18
 Ashdod,1542.4252,1.21
 Pogoń Szczecin,1681.4391,1.15
@@ -761,19 +761,19 @@ Wehen Wiesbaden,1484.8422,1.16
 That Ras,1434.1238,1.03
 Ankaragücü,1457.2316,1.11
 Panaitolikos,1464.6425,0.96
-De Graafschap,1468.9274,1.12
+De Graafschap,1468.9288,1.12
 Paksi SE,1652.154,1.25
 Ironi Kiryat Shmona,1527.7656,1.1
 Royal Excel Mouscron,1402.6745,1.1
 Kayserispor,1549.1145,1.13
 Göztepe,1595.3152,1.16
 Denizlispor,1335.6629,1.18
-PEC Zwolle,1550.8571,1.14
+PEC Zwolle,1550.866,1.14
 Apollon Smirnis,1330.0536,0.99
-El Entag El Harby,1442.0289,1.19
+El Entag El Harby,1442.0286,1.19
 Konyaspor,1554.3067,1.06
 Khouribga,1463.0431,1.14
-Pyramids FC,1781.0405,1.21
+Pyramids FC,1781.0286,1.21
 Sivasspor,1535.911,1.15
 Panionios,1399.2528,0.99
 Balıkesirspor,1272.2472,1.16
@@ -788,17 +788,17 @@ Bnei Sakhnin,1524.4255,1.03
 Vitória Guimarães II,1501.4343,1.13
 Hartberg,1554.9546,1.11
 Academico Viseu,1486.6311,1.08
-KAA Gent,1574.5382,1.16
+KAA Gent,1574.5384,1.16
 Hammam-Lif,1426.5926,0.99
 Vitória Setúbal,1547.3663,1.15
-Paços de Ferreira,1448.3666,1.05
-Utrecht,1673.0517,1.12
-GD Estoril Praia,1569.1296,1.22
-Zamalek,1672.2975,1.19
+Paços de Ferreira,1448.3665,1.05
+Utrecht,1673.0627,1.12
+GD Estoril Praia,1569.1295,1.22
+Zamalek,1672.2796,1.19
 Rayo Majadahonda,1489.6319,1.1
 Karabükspor,1303.4987,1.16
-Lamia,1319.0736,1.15
-Utrecht II,1204.5148,1.1
+Lamia,1319.0738,1.15
+Utrecht II,1204.5159,1.1
 Galatasaray,1896.8278,1.19
 MC Oran,1535.5792,0.97
 DRB Tadjenanet,1468.8046,0.97
@@ -811,80 +811,80 @@ Hapoel Acre,1475.69,1.07
 Ústí nad Labem,1398.4062,1.09
 Sektzia Nes Tziona,1406.1873,1.16
 1860 München,1459.2925,1.13
-Ried,1612.3897,1.11
-Twente,1702.9668,1.23
+Ried,1612.3896,1.11
+Twente,1702.978,1.23
 Avranches,1390.1198,1.17
 Dunkerque,1508.0212,1.06
 Yeni Malatyaspor,1273.1763,1.23
-Vitória Guimarães,1665.2368,1.05
-El Gounah,1495.8083,0.98
+Vitória Guimarães,1665.2367,1.05
+El Gounah,1495.8069,0.98
 Entente SSG,1419.2224,1.06
-Sparta Praha,1745.705,1.21
-Al Fujairah,1342.8033,1.2
-Asteras Tripolis,1476.846,1.06
-Santa Clara,1598.9162,0.99
-Excelsior,1514.4881,1.21
-ENPPI,1502.9823,0.99
-Fortuna Sittard,1513.5966,1.09
-Trabzonspor,1641.1174,1.23
+Sparta Praha,1745.7049,1.21
+Al Fujairah,1342.8032,1.2
+Asteras Tripolis,1476.8462,1.06
+Santa Clara,1598.916,0.99
+Excelsior,1514.4931,1.21
+ENPPI,1505.7524,0.99
+Fortuna Sittard,1513.6067,1.09
+Trabzonspor,1641.1175,1.23
 Opava,1442.3921,1.0
-Slaven Koprivnica,1539.3734,1.11
-Panathinaikos,1704.4837,1.1
+Slaven Koprivnica,1539.3482,1.11
+Panathinaikos,1704.4838,1.1
 Porto II,1429.1228,1.06
 Sporting Braga II,1585.9231,1.02
-Al Ahli,1523.5413,1.18
+Al Ahli,1523.5268,1.18
 Calcio Padova,1446.8368,1.04
-Cosenza,1389.7961,1.04
-Mladá Boleslav,1543.4785,1.14
+Cosenza,1389.7962,1.04
+Mladá Boleslav,1543.4784,1.14
 Cova Piedade,1428.8023,1.14
 Zlín,1559.7192,1.07
 Baník Sokolov,1422.0528,1.08
 Associação Académica de Coimbra OAF,1543.3217,1.18
-Al Sareeh,1475.812,1.12
+Al Sareeh,1475.8122,1.12
 Newtown,1475.491,1.15
 Barry Town United,1522.9917,1.16
 Varnsdorf,1445.9672,1.24
 Hradec Králové,1584.1513,1.03
 Táborsko,1476.8586,0.98
-Sport Recife,1541.3506,1.15
+Sport Recife,1541.3512,1.15
 Tacoma Defiance,1534.0105,1.22
 LA Galaxy II,1388.8997,1.44
-Al Sadd,1765.9598,1.42
-Lviv,1313.4781,1.07
-KV Mechelen,1549.6461,1.19
-Wisła Płock,1584.2152,1.13
-Miedź Legnica,1552.051,1.19
+Al Sadd,1765.9764,1.42
+Lviv,1313.478,1.07
+KV Mechelen,1549.6463,1.19
+Wisła Płock,1589.5175,1.13
+Miedź Legnica,1559.8239,1.17
 Sporting Covilhã,1437.7749,1.1
 Altınordu,1401.0427,1.14
 Znojmo,1429.2595,1.23
-Aris,1604.5181,1.1
-Lecce,1525.5275,1.0
+Aris,1604.5182,1.1
+Lecce,1525.5277,1.0
 Cracovia Kraków,1579.7053,1.22
-Sigma Olomouc,1535.8905,1.18
-Vitesse,1378.0937,1.19
+Sigma Olomouc,1535.8904,1.18
+Vitesse,1378.0985,1.19
 Vojvodina,1650.4614,1.18
 Bursaspor,1455.1118,1.16
 Hapoel Kfar Saba,1454.3657,1.08
 Hapoel Rishon LeZion,1408.3243,1.08
 Sonnenhof Großaspach,1403.6661,1.04
-Sesvete,1467.2672,1.03
+Sesvete,1467.2575,1.03
 Olympic Safi,1551.4626,1.06
 Hrvatski Dragovoljac,1361.8327,1.16
 Gillingham,1396.5707,0.9
 Pittsburgh Riverhounds,1566.9283,0.89
-Portsmouth,1528.7234,1.16
+Portsmouth,1528.717,1.16
 Scunthorpe United,1264.9251,1.15
 Southend United,1370.7976,1.04
-KVC Westerlo,1548.8798,1.33
-Eskilstuna United,1542.2645,1.03
-Hammarby,1761.0874,1.05
+KVC Westerlo,1548.88,1.33
+Eskilstuna United,1542.2537,1.03
+Hammarby,1761.0853,1.05
 SV Roeselare,1455.1952,1.23
 FAR Rabat,1698.4782,1.16
-Vittsjö,1561.2897,1.05
+Vittsjö,1561.2795,1.05
 ES Sétif,1549.9887,1.06
 Lučko,1441.0688,1.04
 NA Hussein Dey,1380.2734,1.25
-Al Masry,1602.8322,1.04
+Al Masry,1602.8132,1.04
 Olympique Médéa,1444.8283,1.08
 JS Kabylie,1621.0528,1.04
 Connah's Quay,1608.5887,1.09
@@ -892,14 +892,14 @@ Hapoel Bnei Lod,1399.6355,1.17
 Hapoel Ramat Gan,1579.4221,1.2
 Hapoel Ashkelon,1436.0425,1.07
 Ironi Ramat HaSharon,1422.1123,1.36
-Wadi Degla,1472.6713,1.03
+Wadi Degla,1472.6703,1.03
 Hapoel Marmorek,1457.7362,1.12
-Al Fateh,1487.7427,1.28
+Al Fateh,1487.7395,1.28
 Radnički Niš,1500.1282,1.17
 Bohemians 1905,1509.0718,1.03
-Al Feiha,1456.6327,1.0
-Viktoria Plzeň,1726.2658,1.19
-Union Saint-Gilloise,1807.6295,1.12
+Al Feiha,1456.6122,1.0
+Viktoria Plzeň,1726.2657,1.19
+Union Saint-Gilloise,1807.6299,1.12
 Aberystwyth Town,1347.8951,1.1
 MO Béjaïa,1479.7546,0.91
 Waasland-Beveren,1537.6438,1.11
@@ -914,52 +914,52 @@ Jablonec,1635.7645,1.18
 Hapoel Haifa,1647.0918,1.15
 FUS Rabat,1617.1059,1.05
 Livorno,1348.8962,1.12
-AaB,1395.544,1.21
-Petrojet,1473.7928,1.09
+AaB,1395.543,1.21
+Petrojet,1473.6951,1.09
 Maccabi Ahi Nazareth,1415.9138,1.15
 Arnett Gardens,1676.8774,1.18
 Difaâ El Jadida,1480.013,1.16
 Free State Stars,1436.137,1.15
-Golden Arrows,1488.4357,1.11
-Emirates,1297.8653,1.25
-Al Shabab,1624.3048,1.23
-Shabab Al Ahli Dubai,1735.7096,1.23
-Al Hussein,1691.3809,1.12
-Al Taawon,1555.361,1.05
-Al Jazira,1566.0652,1.23
+Golden Arrows,1488.3309,1.11
+Emirates,1297.8708,1.25
+Al Shabab,1624.3121,1.23
+Shabab Al Ahli Dubai,1735.7187,1.23
+Al Hussein,1691.3808,1.12
+Al Taawon,1555.3264,1.05
+Al Jazira,1566.0783,1.23
 UWI,1414.5624,1.13
-Al Sailiya,1418.2576,1.14
-Al Ittifaq,1543.1095,1.04
-Al Faisaly,1658.2998,1.13
+Al Sailiya,1418.2754,1.14
+Al Ittifaq,1543.087,1.04
+Al Faisaly,1658.355,1.13
 Osmanlıspor,1388.0763,1.18
 Vysočina Jihlava,1442.9565,1.11
-Al Wahda,1499.1029,1.23
+Al Wahda,1499.0857,1.23
 Newry City AFC,1257.945,1.18
 Kaizer Chiefs,1478.3629,1.04
 Kawkab Marrakech,1496.2203,1.13
-Hatayspor,1523.814,1.13
+Hatayspor,1523.8139,1.13
 Meppen,1404.6533,1.17
 UD Oliveirense,1380.6777,1.17
 Karlsruher SC,1547.3817,1.22
 Hapoel Tel Aviv,1628.3829,1.11
-Atromitos,1492.1807,1.08
-Rosengard Women,1788.7954,1.32
-Djurgården W,1499.8616,1.19
+Atromitos,1492.1809,1.08
+Rosengard Women,1788.786,1.32
+Djurgården W,1499.8513,1.19
 Beitar Jerusalem,1597.7208,1.18
 Hapoel Hadera,1446.4243,1.15
 Ards,1414.2127,1.03
 Coleraine,1565.3864,1.14
 Dungannon Swifts,1526.2039,1.15
-Dibba Al Fujairah,1419.5851,1.09
-Bani Yas,1417.1932,1.12
-Al Salt,1517.8419,1.02
+Dibba Al Fujairah,1419.5974,1.09
+Bani Yas,1417.2045,1.12
+Al Salt,1517.8415,1.02
 Cefn Druids,1230.058,1.47
-Helmond Sport,1363.2341,1.12
+Helmond Sport,1363.2357,1.12
 Llanelli Town,1340.341,1.26
 Bala Town,1576.5234,1.06
 Austria Wien II,1360.4004,1.21
-Umm Salal,1463.239,1.12
-Preußen Münster,1513.9082,1.08
+Umm Salal,1463.2565,1.12
+Preußen Münster,1513.9081,1.08
 Pars Jam Bushehr,1455.0964,0.92
 Hapoel Petah Tikva,1590.7764,0.99
 Slovácko,1494.5977,1.1
@@ -969,8 +969,8 @@ Třinec,1386.0272,1.12
 Chrudim,1516.1358,1.15
 České Budějovice,1319.8727,1.2
 Viktoria Žižkov,1481.197,1.24
-Tobol,1606.4001,1.11
-Piteå Women,1527.0142,0.98
+Tobol,1606.4003,1.11
+Piteå Women,1527.0047,0.98
 Rizespor,1582.7942,1.2
 Hassania Agadir,1476.6111,1.11
 Baník Ostrava,1664.4036,1.12
@@ -979,16 +979,16 @@ AmaZulu,1500.679,1.0
 Bloemfontein Celtic,1489.0328,1.17
 Stomil Olsztyn,1404.82,1.05
 Lokomotiv Moskva,1464.7496,1.0
-Ajman,1492.4319,1.24
-Laval,1489.5732,1.08
+Ajman,1492.4495,1.24
+Concarneau,1458.7527,1.22
 Hapoel Katamon,1599.1404,1.13
 Eskişehirspor,1255.635,1.31
-Concarneau,1458.7527,1.22
+Laval,1489.5732,1.08
 Osnabrück,1446.4897,1.12
 Llandudno,1409.5071,1.13
-Beerschot-Wilrijk,1444.2952,1.1
+Beerschot-Wilrijk,1444.2954,1.1
 Ballymena United,1433.3173,1.1
-Peterborough United,1469.1205,1.31
+Peterborough United,1469.1195,1.31
 Maccabi Netanya,1569.9439,1.14
 Varzim,1582.0211,1.11
 CS Sfaxien,1583.2539,0.77
@@ -997,46 +997,46 @@ Harbour View,1430.8159,1.03
 Pau,1436.3525,1.21
 CR Belouizdad,1700.0544,1.08
 MC Alger,1701.7244,1.03
-Linköping,1503.1501,1.19
+Linköping,1503.1413,1.19
 Warrenpoint Town,1311.165,1.15
-Kristianstad,1684.3216,1.12
+Kristianstad,1684.3126,1.12
 Hallescher FC,1399.0065,1.12
 Al Buqa'a,1475.1594,1.0
 Chambly,1356.9516,1.2
 Le Mans,1529.9546,1.15
 Villefranche,1439.2688,1.01
-Al Arabi,1535.2111,1.29
+Al Arabi,1535.2856,1.29
 Ittihad Tanger,1496.8028,1.11
 Larissa,1406.8763,1.02
 PAS Giannina,1380.4033,1.15
 CA Bordj Bou Arreridj,1353.5165,1.12
-Celje,1696.0036,1.32
+Celje,1696.0494,1.32
 Perth Glory FC,1358.5326,1.25
 Wellington Phoenix,1474.1662,1.08
 Levadiakos,1496.2054,1.1
 Slovan Liberec,1589.8616,1.07
 Brisbane Roar,1401.393,1.14
-OFI,1477.1128,1.12
+OFI,1477.1129,1.12
 Wydad Casablanca,1635.4403,1.1
-Maccabi Haifa,1712.2463,1.25
+Maccabi Haifa,1712.2464,1.25
 Bradford City,1494.0677,1.08
-Al Dhafra,1362.7458,1.11
-Al Hilal,1777.7983,1.34
-Al Wihdat,1672.6538,1.12
+Al Dhafra,1362.7363,1.11
+Al Hilal,1777.783,1.34
+Al Wihdat,1672.6548,1.12
 Adelaide United,1475.4354,1.47
-Al Ramtha,1545.5934,1.05
+Al Ramtha,1545.5937,1.05
 Ohod,1404.1195,1.07
-Al Batin,1387.285,1.14
-Al Nasr,1519.5907,1.16
-Al Sharjah,1663.0441,1.06
+Al Batin,1387.2757,1.14
+Al Nasr,1519.5871,1.16
+Al Sharjah,1663.0575,1.06
 Central Coast Mariners,1498.7296,1.18
 Diósgyőr,1600.3345,1.18
 Glenavon,1493.209,1.1
-AZ,1726.7188,1.15
+AZ,1726.7298,1.15
 Septemvri Sofia,1436.0915,1.16
 Melbourne Victory FC,1561.7098,1.06
-Al Ain,1665.4821,1.23
-Al Wasl,1673.1816,1.22
+Al Ain,1665.497,1.23
+Al Wasl,1673.1918,1.22
 Melbourne City FC,1616.4947,1.15
 Sepidrood Rasht,1451.1674,1.05
 Pardubice,1431.0035,1.01
@@ -1045,13 +1045,13 @@ Vlašim,1506.4081,1.18
 Humble Lions,1427.9222,1.05
 USM Bel Abbès,1439.737,1.08
 RSB Berkane,1663.6239,1.03
-Smouha SC,1501.0845,1.03
+Smouha SC,1502.2594,1.01
 Győri ETO,1622.4063,1.08
 Kaposvári Rákóczi,1334.3231,1.12
 Montego Bay United,1607.2624,1.04
-Al Duhail,1704.314,1.34
-Qatar SC,1477.9187,1.23
-Al Khor,1358.4633,1.09
+Al Duhail,1704.3328,1.34
+Qatar SC,1477.9329,1.23
+Al Khor,1358.4733,1.09
 Carmarthen Town,1440.7312,1.15
 CD Aves,1358.1494,1.1
 Newcastle Jets FC,1467.6331,1.21
@@ -1059,20 +1059,20 @@ Western Sydney Wanderers,1560.1467,1.35
 Raja Casablanca,1649.4272,1.08
 USM Alger,1601.433,1.05
 Paradou AC,1594.5231,1.15
-Dugopolje,1391.2984,1.17
+Dugopolje,1391.2891,1.17
 Prostějov,1396.1086,1.18
 Caernarfon Town,1575.8125,1.36
 Farense,1501.0994,1.02
 Tivoli Gardens,1586.646,1.16
-Aqaba,1436.6212,1.18
+Aqaba,1436.626,1.18
 Club Africain,1630.6161,0.82
 Monastir,1693.0186,1.05
 Cavalier,1650.229,1.07
-Al Ittihad Kalba,1479.3685,1.17
+Al Ittihad Kalba,1479.3819,1.17
 Hapoel Iksal,1420.5472,1.25
 Unterhaching,1365.3717,1.11
 Würzburger Kickers,1381.8857,1.19
-SuperSport United,1477.2957,0.97
+SuperSport United,1477.4005,0.97
 Moghreb Tétouan,1410.7955,1.01
 Chabab Rif Hoceima,1453.1997,1.09
 Sydney FC,1544.0438,1.27
@@ -1088,14 +1088,14 @@ Reno,1489.1425,0.98
 Hapoel Ra'anana,1422.214,1.08
 Glentoran,1632.3332,1.08
 Mouloudia Oujda,1420.103,1.08
-Al Quadisiya,1551.0249,1.08
+Al Quadisiya,1550.9454,1.08
 Portmore United,1611.8552,0.77
 Dunbeholden,1441.494,1.15
-Haras El Hodood,1441.9559,0.97
+Haras El Hodood,1441.9422,0.97
 Deportivo La Guaira,1475.7702,0.96
-Lommel United,1459.4307,1.1
-Al Raed,1389.5462,1.17
-Nacional Asunción,1482.8496,1.07
+Lommel United,1459.4308,1.1
+Al Raed,1389.5218,1.17
+Nacional Asunción,1482.8511,1.07
 Terengganu,1591.8309,1.09
 Kuala Lumpur,1552.8907,1.11
 PKNP,1428.3604,1.07
@@ -1103,10 +1103,10 @@ Johor Darul Ta'zim,1907.0862,1.34
 Selangor,1699.8293,1.19
 Ceglédi,1440.5256,1.03
 Soroksár SC,1491.6581,1.18
-Danubio,1538.6413,0.95
-Al Nassr,1744.1119,1.4
-Palestino,1598.6378,1.12
-Talleres Córdoba,1534.6613,1.06
+Danubio,1538.6919,0.95
+Al Nassr,1744.0921,1.4
+Palestino,1598.6636,1.12
+Talleres Córdoba,1534.6165,1.06
 Perak,1464.4006,1.2
 Pahang,1528.3664,1.15
 Balmazújváros Sport,1468.9457,0.99
@@ -1115,32 +1115,32 @@ Dorogi,1371.0217,1.09
 Csákvári TK,1439.5503,1.16
 Békéscsaba,1451.9631,1.08
 Naft Masjed Soleyman,1392.1075,0.97
-Barcelona,1530.9099,1.0
-Independiente Medellín,1544.2034,1.12
-Caracas,1449.1644,1.09
-Al Jazeera,1566.0385,1.08
+Barcelona,1530.9054,1.0
+Independiente Medellín,1544.2049,1.12
+Caracas,1449.166,1.09
+Al Jazeera,1566.0402,1.08
 Bohemians,1605.8857,1.07
 Derry City,1660.864,1.03
 Waterford,1545.7983,1.21
-Unión La Calera,1531.8297,1.01
+Unión La Calera,1531.8556,1.01
 Kedah,1495.6242,1.18
-Deportes Iquique,1478.7116,1.26
-Rampla Juniors,1438.5376,1.11
-Juventud,1501.4899,1.13
-Wanderers,1508.3133,1.09
-Liverpool FC Montevideo,1601.3159,1.11
+Deportes Iquique,1478.7298,1.26
+Rampla Juniors,1438.5531,1.11
+Juventud,1501.4947,1.13
+Wanderers,1508.341,1.09
+Liverpool FC Montevideo,1601.3335,1.11
 MTE 1904,1358.6219,1.14
 Kairouan,1331.2056,1.14
 Kazincbarcika,1552.2451,1.07
 Siófok,1421.6438,1.2
 Monori SE,1497.6447,1.11
 Zalaegerszegi TE,1563.2512,1.08
-Cerro Largo,1565.3093,0.86
-Huachipato,1531.5493,1.16
-Boston River,1530.691,1.08
-Racing,1640.8127,1.03
-Unión Española,1509.6453,1.21
-Audax Italiano,1565.9401,1.13
+Cerro Largo,1565.3338,0.86
+Huachipato,1531.5755,1.16
+Boston River,1530.6937,1.08
+Racing,1640.8279,1.03
+Unión Española,1509.6702,1.21
+Audax Italiano,1565.9561,1.13
 Esteghlal,1636.2407,1.1
 Cerezo Osaka,1563.5661,1.06
 Drancy JA,1473.4101,0.98
@@ -1150,7 +1150,7 @@ Galway United,1656.5418,1.05
 Limerick,1471.7449,1.13
 UCD,1346.0417,1.05
 Finn Harps,1358.8607,1.1
-Antofagasta,1488.542,1.12
+Antofagasta,1488.5471,1.12
 Shamrock Rovers,1730.5183,1.11
 Athlone Town,1330.0223,1.11
 Sanfrecce Hiroshima,1690.2651,1.08
@@ -1160,13 +1160,13 @@ Kashima Antlers,1647.0665,1.1
 Shonan Bellmare,1514.3675,1.07
 Jubilo Iwata,1515.8725,1.19
 Gamba Osaka,1572.0244,1.14
-Deportes Temuco,1465.9842,1.11
+Deportes Temuco,1465.9931,1.11
 Vegalta Sendai,1507.0068,1.1
 PKNS,1478.8889,1.17
-O'Higgins,1526.5551,1.08
-Plaza Colonia,1501.0451,1.08
-Cerro,1494.7171,0.96
-Curicó Unido,1464.4599,1.06
+O'Higgins,1526.6215,1.08
+Plaza Colonia,1501.0665,1.08
+Cerro,1494.7383,0.96
+Curicó Unido,1464.4757,1.06
 Kagoshima United,1372.6771,1.09
 V-Varen Nagasaki,1563.2919,1.29
 Omiya Ardija,1436.3774,1.09
@@ -1178,11 +1178,11 @@ Tochigi,1396.8586,0.9
 Ehime,1323.2346,1.19
 Ryūkyū,1420.5672,1.11
 Renofa Yamaguchi,1434.8661,1.05
-Cobresal,1545.7795,1.16
-Universidad Católica,1589.2561,1.14
+Cobresal,1545.8022,1.16
+Universidad Católica,1589.275,1.14
 St Patrick's Athl.,1684.7065,1.16
 Sligo Rovers,1537.1565,1.22
-Nacional,1689.0939,1.21
+Nacional,1693.0005,1.19
 Ulsan,1670.533,1.09
 Gyeongnam,1387.4483,1.16
 Shandong Luneng,1721.9773,1.19
@@ -1210,42 +1210,42 @@ Shenzhen,1348.5941,1.2
 Chongqing Dangdai Lifan,1453.0676,1.1
 Incheon United,1572.5828,1.04
 Ben Guerdane,1469.1301,0.98
-Philadelphia Union,1572.5729,1.22
+Philadelphia Union,1576.2105,1.22
 Cobh Ramblers,1396.4692,1.14
-Orlando City,1595.2919,1.13
+Orlando City,1586.5113,1.15
 Longford Town,1294.6696,1.16
-FC Dallas,1471.1112,1.08
-Columbus Crew,1611.8471,1.17
+FC Dallas,1473.2886,1.11
+Columbus Crew,1608.4804,1.18
 FC Seoul,1599.9441,1.05
-Houston Dynamo,1530.0611,1.05
-Vancouver Whitecaps,1555.9758,1.12
-Colorado Rapids,1486.3205,1.16
-San Luis,1438.9218,1.11
+Houston Dynamo,1543.5975,1.06
+Vancouver Whitecaps,1554.3657,1.1
+Colorado Rapids,1480.1617,1.16
+San Luis,1438.9229,1.11
 Ansan Greeners,1311.0024,1.12
-SJ Earthquakes,1398.0142,1.28
+SJ Earthquakes,1407.7517,1.26
 Seattle Sounders,1580.3288,1.03
 Yokohama,1579.4978,1.0
 JEF United,1568.1747,1.19
 Mito Hollyhock,1459.4484,1.14
-LA Galaxy,1539.7056,1.35
+LA Galaxy,1529.9681,1.33
 Tokushima Vortis,1497.0171,0.93
 Seoul E-Land,1471.6624,1.17
 Jiangsu Suning,1615.5766,1.1
 Henan Jianye,1586.4039,1.03
-DC United,1394.557,1.24
+DC United,1395.3478,1.23
 Los Angeles FC,1586.0028,1.19
 San José,1446.852,1.1
-Godoy Cruz,1490.2235,1.07
-Deportes Tolima,1506.3767,1.05
+Godoy Cruz,1490.2116,1.07
+Deportes Tolima,1506.377,1.05
 Tiszakécske,1438.9271,1.04
 Zlatibor Čajetina,1399.2667,1.14
 Javor Ivanjica,1543.8899,0.98
-Nyíregyháza Spartacus,1557.8889,1.12
+Nyíregyháza Spartacus,1557.8888,1.12
 Etoile du Sahel,1668.3802,1.08
-Rosario Central,1576.9922,1.09
-Huracán,1573.844,0.96
-LDU Quito,1551.1318,1.11
-Nõmme Kalju,1660.3485,1.21
+Rosario Central,1576.9802,1.09
+Huracán,1573.822,0.96
+LDU Quito,1563.3492,1.11
+Nõmme Kalju,1660.3488,1.21
 Albirex Niigata,1521.8085,1.09
 Consadole Sapporo,1474.6731,1.19
 Matsumoto Yamaga,1372.3173,1.11
@@ -1256,47 +1256,47 @@ Suwon,1514.1456,1.14
 Guangzhou R&F,1407.1369,1.14
 Shanghai SIPG,1840.2149,1.35
 Tokyo Verdy,1575.9365,1.07
-Šibenik,1515.7422,1.08
+Šibenik,1515.7011,1.08
 Chicago Fire,1412.7107,1.27
-New England Revolution,1429.5898,1.11
-Progreso,1459.6917,1.15
+New England Revolution,1428.799,1.1
+Progreso,1459.7121,1.15
 Gwangju,1552.1728,0.98
 Pohang Steelers,1576.2835,1.09
 Gangwon,1545.6513,1.06
 Tokyo,1533.6161,1.1
-Real Salt Lake,1497.096,1.13
+Real Salt Lake,1496.2171,1.13
 Shaanxi Chang'an,1592.7199,1.05
-Kairat,1642.3342,1.17
+Kairat,1642.3344,1.17
 Hangzhou,1534.2015,1.12
 Seongnam,1374.2091,1.06
 Guizhou Zhicheng,1467.7147,1.23
 Hajduk Split II,1492.2277,1.28
-Bijelo Brdo,1426.068,1.1
+Bijelo Brdo,1426.0587,1.1
 Sporting KC,1441.4676,1.31
-New York City,1514.3752,1.04
-Fénix,1462.3109,1.06
-Atlanta United FC,1492.8054,1.18
+New York City,1500.8388,1.05
+Fénix,1462.3306,1.06
+Atlanta United FC,1501.586,1.2
 Stade Tunisien,1599.3334,0.92
-Sporting Cristal,1476.0655,1.09
-San Lorenzo,1530.5737,0.81
+Sporting Cristal,1470.4416,1.12
+San Lorenzo,1530.5612,0.81
 SPG FC Pasching-LASK Juniors,1365.7049,1.28
 Asan Mugunghwa,1485.7099,1.14
 Shijiazhuang Ever Bright,1497.7002,1.15
 Nantong Zhiyun,1491.4631,1.17
-Al Hazm,1352.9572,1.16
+Al Hazm,1352.9325,1.16
 Sloboda Tuzla,1345.5503,1.15
 Zadar,1499.7671,1.13
 Mladost Doboj Kakanj,1430.8476,1.12
-New York RB,1511.1141,1.07
+New York RB,1522.2547,1.1
 Ventforet Kofu,1478.1828,1.14
 Montedio Yamagata,1519.0084,1.18
 Zweigen Kanazawa,1365.695,1.14
-Paide,1676.4929,1.14
+Paide,1676.4931,1.14
 Sarajevo,1636.4291,1.11
 Široki Brijeg,1498.1817,1.13
 Dinamo Zagreb II,1476.5182,1.13
 Željezničar,1611.9911,1.1
-Toronto,1385.5286,1.15
+Toronto,1381.891,1.15
 Metalac GM,1452.5983,1.03
 Kustošija,1442.7626,1.09
 Borac Čačak,1469.4681,1.1
@@ -1323,42 +1323,42 @@ Taraz,1452.6103,1.01
 Warriors,1456.7025,1.22
 Isloch,1576.9068,1.11
 Hebei CFFC,1318.3514,1.3
-Brommapojkarna,1550.334,1.24
+Brommapojkarna,1544.7573,1.22
 Chikhura,1485.4709,1.1
 Beijing Renhe,1379.622,1.2
 Zeta,1459.6409,1.07
 Start,1454.2576,1.22
 Odd,1494.9074,1.1
-Trans,1543.1654,1.21
+Trans,1543.1655,1.21
 MISC,1493.9722,0.99
 Mladost,1408.1432,1.09
-Solin,1398.2856,1.16
-Varaždin,1569.646,0.85
+Solin,1398.2786,1.16
+Varaždin,1569.6216,0.85
 Iskra,1419.8947,1.1
 Zvijezda '09 Brgule,1326.199,1.22
 Shakhtyor,1502.2088,1.11
 Meizhou Hakka,1528.01,1.2
-Trelleborg,1417.8795,1.06
+Trelleborg,1417.8842,1.06
 Krupa na Vrbasu,1516.2035,1.07
 FK Tuzla City,1418.6768,1.26
-Mjällby,1688.897,1.07
+Mjällby,1688.8984,1.07
 Várda SE,1561.3998,1.24
 Dila,1622.3368,1.17
 WIT Georgia,1410.0138,0.93
 Vålerenga,1637.8445,1.18
-Örgryte,1511.2113,1.17
+Örgryte,1511.2155,1.17
 Daejeon Citizen,1585.884,1.11
 Tianjin Quanjian,1454.5564,1.13
 Beijing BG,1391.8341,1.1
-Shakhter Karagandy,1383.4741,1.11
+Shakhter Karagandy,1383.4742,1.11
 Dinamo Minsk,1736.5274,1.02
 Viljandi JK Tulevik,1393.8968,1.15
-Falkenberg,1408.6685,1.22
-AIK,1691.5384,1.08
-Öster,1560.0903,1.11
+Falkenberg,1408.6694,1.22
+AIK,1691.5397,1.08
+Öster,1560.0963,1.11
 Skeid,1294.7171,1.1
 Nest-Sotra,1536.6442,1.08
-Kalmar,1566.4482,1.1
+Kalmar,1566.4479,1.1
 Radnički Kragujevac,1615.5159,1.2
 Bežanija,1517.7811,1.04
 Budućnost Dobanovci,1452.8839,1.1
@@ -1367,26 +1367,26 @@ GOŠK Gabela,1339.2249,1.21
 Slutsk,1471.1583,1.11
 Sarpsborg 08,1591.8714,1.22
 Syrianska,1390.3747,1.13
-Helsingborg,1443.0011,1.07
-AFC Eskilstuna,1411.1853,1.07
+Helsingborg,1443.006,1.07
+AFC Eskilstuna,1411.1941,1.07
 Ranheim,1443.9521,1.19
 Strømsgodset,1542.8794,1.07
-Viking,1711.2789,1.37
+Viking,1725.562,1.38
 Sogndal,1438.7554,1.07
 Čelik,1418.9919,1.07
 Sandefjord,1563.7184,1.18
-FK Bodo - Glimt,1811.3551,1.35
+FK Bodo - Glimt,1797.0719,1.36
 Mount Pleasant Academy FC,1756.2308,1.11
 Inđija,1438.0738,1.06
 Stabæk,1479.6599,1.17
-Djurgården,1626.4657,1.03
-Brage,1425.2744,1.02
-Elfsborg,1702.6829,1.23
+Djurgården,1632.0469,1.02
+Brage,1425.2811,1.02
+Elfsborg,1702.6843,1.23
 Lokomotivi Tbilisi,1505.7961,1.05
-Tammeka,1425.1464,1.16
-Dinamo Batumi,1533.4773,1.03
-Jönköpings Södra,1404.4476,1.23
-Tallinna Kalev,1336.1282,1.24
+Tammeka,1425.1465,1.16
+Dinamo Batumi,1541.2768,1.03
+Jönköpings Södra,1404.4568,1.23
+Tallinna Kalev,1336.1284,1.24
 Pobeda,1342.5614,1.19
 Lovćen,1495.3318,0.99
 Mornar,1479.3232,1.05
@@ -1395,35 +1395,35 @@ Maardu Linnameeskond,1331.0498,1.25
 Akademija Pandev,1473.3672,1.22
 Geylang International,1542.3659,1.32
 Gorodeya,1440.1409,1.04
-GAIS,1608.0824,0.99
+GAIS,1608.0853,0.99
 Beijing Guoan,1737.2586,1.26
-Deportes Santa Cruz,1447.2234,1.14
+Deportes Santa Cruz,1447.2128,1.14
 Tarpeda,1435.8111,0.92
 Neman Grodno,1648.0365,1.04
 Radnik Bijeljina,1515.9297,1.15
-Mjøndalen,1375.4764,1.11
-GIF Sundsvall,1424.4989,1.08
-Häcken,1653.375,1.32
-Halmstad,1481.7742,1.14
+Mjøndalen,1389.9053,1.12
+GIF Sundsvall,1424.5047,1.08
+Häcken,1653.3763,1.32
+Halmstad,1481.7768,1.14
 Aalesund,1478.9248,1.21
-Degerfors,1535.8473,1.13
+Degerfors,1535.8503,1.13
 FC Energetik-BGU Minsk,1503.2064,1.14
-Albirex Niigata S,1604.0627,1.23
 Home United,1730.1142,1.44
+Albirex Niigata S,1604.0627,1.23
 Sichuan Longfor,1457.526,1.16
 KPV,1454.5158,1.16
 Sioni,1431.0603,1.18
-Kuressaare,1412.5503,1.17
+Kuressaare,1412.5504,1.17
 Wacker Innsbruck II,1490.8001,1.06
 Jerv,1363.2627,1.22
 Meizhou Meixian Techand,1472.2067,1.17
-Östersunds FK,1416.399,1.11
-Dalkurd,1412.4553,1.18
+Östersunds FK,1416.4029,1.11
+Dalkurd,1412.5792,1.18
 Slavia,1527.4301,1.05
 KFUM,1537.4866,1.04
 HamKam,1528.1929,1.08
-IFK Göteborg,1561.4975,1.08
-Varberg,1484.1958,1.22
+IFK Göteborg,1561.4988,1.08
+Varberg,1484.1959,1.22
 Budafoki MTE,1457.6898,1.17
 Frej,1444.2114,1.14
 Kristiansund,1543.221,1.06
@@ -1431,15 +1431,15 @@ Notodden,1449.9786,1.12
 Dinamo Brest,1587.4738,1.3
 Dinamo Tbilisi,1506.6301,1.0
 Lillestrøm,1539.9275,1.15
-Molde,1687.6802,1.21
+Molde,1703.6156,1.21
 Haugesund,1472.0666,1.05
 Tromsø,1603.4537,1.11
-Brann,1732.5118,1.16
-Örebro,1393.8974,1.13
-Norrköping,1544.5669,1.24
-Norrby,1444.3434,1.1
-Sirius,1554.2272,1.2
-Västerås SK,1503.2954,1.08
+Brann,1716.5764,1.16
+Örebro,1393.9043,1.13
+Norrköping,1544.5682,1.24
+Norrby,1444.3512,1.1
+Sirius,1554.2283,1.2
+Västerås SK,1503.3008,1.08
 Hougang United,1480.9048,1.32
 Dnyapro,1457.6778,1.06
 Jeju United,1510.5016,1.04
@@ -1448,26 +1448,26 @@ Heilongjiang Lava Spring,1417.4737,1.12
 Balestier Khalsa,1448.3275,1.6
 Nei Mongol Zhongyou,1491.0507,1.06
 Torpedo BelAZ,1626.8058,0.93
-Minnesota United,1507.0447,1.09
+Minnesota United,1508.6548,1.07
 Kungsbacka,1335.5018,1.2
 Grbalj,1448.1792,1.05
 Young Lions,1261.8823,1.3
-Okzhetpes,1451.1726,1.13
+Okzhetpes,1451.1727,1.13
 Strømmen,1394.8592,1.12
-KIF Örebro,1446.4892,1.02
-Fola Esch,1353.6867,1.12
+KIF Örebro,1446.478,1.02
+Fola Esch,1353.688,1.12
 Makedonija GjP,1475.5125,1.11
 Shkupi,1571.0162,1.15
 Vitebsk,1475.1816,1.08
-KÍ,1829.7265,1.18
+KÍ,1829.7268,1.18
 HIFK,1348.4325,1.22
 B36,1622.0473,1.18
 TB,1359.2067,1.06
-HB,1755.6075,1.17
+HB,1762.8399,1.17
 Youssoufia Berrechid,1370.5038,1.09
-Progrès Niederkorn,1640.9012,1.06
+Progrès Niederkorn,1640.9022,1.06
 Petrovac,1584.6521,1.18
-Göteborg,1682.4232,1.12
+Göteborg,1682.4153,1.12
 Budaörs,1464.4262,1.19
 Aïn M'lila,1456.6194,1.13
 Raufoss,1463.7549,1.01
@@ -1476,44 +1476,44 @@ Limhamn Bunkeflo 07 Women,1397.3198,1.06
 Sandnes Ulf,1295.5343,1.23
 DPMM FC,1465.2394,1.07
 Belasica,1385.3867,1.1
-Zamora,1469.4069,1.03
-Stjarnan,1609.7788,1.18
-ÍA,1479.3218,1.27
-FH,1521.9041,1.2
+Zamora,1469.407,1.03
+Stjarnan,1618.0791,1.19
+ÍA,1500.8976,1.28
+FH,1513.2575,1.2
 Grindavík,1451.8067,0.97
-Operário PR,1488.42,1.0
-ÍBV,1426.6136,1.1
+Operário PR,1488.4204,1.0
+ÍBV,1435.2602,1.1
 Imperatriz,1387.445,1.19
-Tallinna FC Levadia,1769.4363,1.09
+Tallinna FC Levadia,1769.4367,1.09
 Tataouine,1367.3965,1.18
 RM Hamm Benfica,1429.6358,1.01
-Montreal Impact,1423.2491,1.18
+Montreal Impact,1416.9403,1.2
 NSÍ,1559.0749,1.38
 Novi Pazar,1600.1754,1.21
-Hostert,1394.5108,1.33
+Hostert,1394.5115,1.33
 HK,1399.3101,1.22
 EC São José,1446.5443,1.13
 Globo,1456.0804,1.07
 AB,1336.7892,1.26
-KA,1524.2549,1.1
-Saburtalo,1661.7811,1.16
-KR,1530.5835,1.3
+KA,1530.1069,1.1
+Saburtalo,1666.9894,1.17
+KR,1522.2832,1.32
 Treze,1471.7636,1.09
 Fylkir,1411.7828,1.21
-Náutico,1488.0807,1.22
-Víkingur Reykjavík,1746.1907,1.32
-Breidablik,1689.8552,1.32
+Náutico,1488.0808,1.22
+Víkingur Reykjavík,1748.6596,1.3
+Breidablik,1668.2794,1.33
 Anyang,1507.4222,1.11
 Atlético Acreano,1400.1237,1.12
 Ferroviário,1384.4333,1.1
-Portland Timbers,1517.71,1.24
+Portland Timbers,1523.8688,1.24
 York9 FC,1488.7448,1.1
 Cavalry FC,1631.7446,1.07
 Feronikeli,1502.6398,0.98
 FC Avan Academy,1490.6703,1.02
 Partizani Tirana,1487.0899,0.98
-Bravo,1581.6543,1.07
-Lyngby,1416.5934,1.01
+Bravo,1581.6846,1.07
+Lyngby,1416.5925,1.01
 Arda,1628.6942,1.12
 Riga,1502.9072,0.95
 Chindia Târgovişte,1446.9816,0.97
@@ -1522,12 +1522,12 @@ Velež,1559.5247,1.05
 Líšeň,1460.073,1.02
 Pohronie,1444.6289,1.03
 Academica Clinceni,1302.6312,1.26
-Tabor Sežana,1438.8579,1.06
-Silkeborg,1546.2574,1.16
+Tabor Sežana,1438.8787,1.06
+Silkeborg,1546.2561,1.16
 Chemnitzer FC,1470.4307,1.13
 Dornbirn,1393.6244,1.15
 Bayern München II,1464.7004,1.12
-Växjö,1422.1192,1.04
+Växjö,1422.1094,1.04
 Olimpia Grudziądz,1436.6581,1.09
 Radomiak Radom,1523.9436,1.16
 Waldhof Mannheim,1446.2766,1.08
@@ -1535,32 +1535,32 @@ Borac Banja Luka,1728.7243,1.03
 Bełchatów,1352.9731,1.03
 Viktoria Köln,1488.2762,1.13
 Slavoj Vyšehrad,1317.0543,1.12
-Kolos Kovalivka,1477.3361,0.79
-Stade Lausanne-Ouchy,1494.3004,1.11
-Dnipro-1,1632.6317,1.15
+Kolos Kovalivka,1477.3357,0.79
+Stade Lausanne-Ouchy,1494.3,1.11
+Dnipro-1,1632.6313,1.15
 Créteil,1354.5617,1.18
-Grazer AK,1515.3654,1.09
+Grazer AK,1515.3655,1.09
 Toulon,1415.9268,0.99
 Sinđelić Beograd,1383.7836,1.14
 Salford City,1438.3982,1.19
-Arbroath,1303.031,1.19
-Leyton Orient,1562.197,1.12
+Arbroath,1303.0304,1.19
+Leyton Orient,1562.1959,1.12
 Krasnodar,1511.0589,1.05
 Le Puy F.43 Auvergne,1420.306,1.16
 Bastia-Borgo,1351.7111,1.17
 Larne,1688.1351,1.03
 Radnički Pirot,1460.2812,1.11
 Grafičar,1481.7806,1.2
-Gil Vicente,1527.0887,1.04
+Gil Vicente,1527.0885,1.04
 Excelsior Virton,1361.2245,1.09
 Carrick Rangers,1411.4891,1.1
 US Biskra,1483.6619,0.78
 NC Magra,1536.9126,1.02
 Penybont,1677.5524,1.09
 Airbus UK,1271.7016,1.28
-Fatih Karagümrük,1558.0358,1.11
-Racing Santander,1519.7557,1.17
-Casa Pia,1558.5635,1.09
+Fatih Karagümrük,1568.1483,1.12
+Racing Santander,1519.7555,1.17
+Casa Pia,1558.5632,1.09
 Honvéd W,1480.225,1.07
 CF Os Belenenses,1517.2532,1.06
 Semendrija 1924,1433.8537,0.95
@@ -1570,7 +1570,7 @@ Kafr Qasim,1469.0748,0.98
 Hapoel Umm al-Fahm,1369.2857,1.08
 Gol Gohar,1570.9858,0.97
 Pisa,1546.7045,1.18
-Mirandés,1546.1262,1.14
+Mirandés,1546.1261,1.14
 Keçiörengücü,1463.4616,1.18
 Shahin Bushehr,1422.9689,1.16
 ASO Chlef,1573.9079,1.09
@@ -1579,40 +1579,40 @@ Menemen Belediyespor,1409.1168,1.12
 SD Ponferradina,1557.4047,1.17
 Pordenone,1320.7964,1.13
 AS Slimane,1438.0767,1.11
-Al Wakrah,1547.4338,1.14
-Al Adalh,1394.9365,1.13
+Al Wakrah,1547.4758,1.14
+Al Adalh,1394.9369,1.13
 Trapani,1487.1354,1.12
 Volos NFC,1419.3997,1.13
 CF Fuenlabrada,1424.2341,1.12
-Juve Stabia,1470.3183,1.09
+Juve Stabia,1470.3184,1.09
 Valour FC,1434.8451,1.11
 Ajka,1505.2554,1.0
 Forge FC,1586.2857,1.06
-Dhamk,1441.9565,1.02
-Abha,1372.6588,1.27
+Dhamk,1441.9069,1.02
+Abha,1372.62,1.27
 Struga,1598.9124,1.08
 Kom,1467.7214,1.02
-Hatta,1325.5318,1.1
-Aswan FC,1411.176,1.13
+Hatta,1325.5358,1.1
+Aswan FC,1411.1718,1.13
 Raja Beni Mellal,1403.4364,0.93
 Chebba,1449.3185,1.01
 Skála,1327.1478,1.16
 EB - Streymur,1443.2892,1.07
-Al Khaleej,1442.4021,1.1
-Masr,1534.9547,1.05
-Zenit,1517.9472,1.07
+Al Khaleej,1442.3854,1.1
+Masr,1533.7611,1.03
+Zenit,1517.9477,1.07
 Tanta SC,1392.3006,1.04
 ÍF,1284.0287,1.32
 HFX Wanderers FC,1492.6683,1.11
-Indy Eleven,1482.9575,1.18
+Indy Eleven,1480.9835,1.22
 Birmingham Legion,1481.076,1.15
 Western United,1524.0699,1.26
-Phoenix Rising,1513.0465,1.16
+Phoenix Rising,1519.15,1.15
 New Mexico United,1581.0449,1.12
 Memphis 901,1543.3567,1.09
 Loudoun United,1499.6385,1.11
 North Carolina FC,1517.3572,1.11
-Hartford Athletic,1420.9608,1.14
+Hartford Athletic,1422.9348,1.18
 Charlotte Independence,1602.1867,1.11
 Nashville,1513.5637,1.01
 Molynes United,1407.1968,1.27
@@ -1639,8 +1639,8 @@ Jigawa Golden Stars,1445.4866,1.02
 Lobi Stars,1423.2046,1.1
 Ifeanyi Uba,1438.1724,1.11
 Dinamo Samarqand,1502.4097,1.12
-Al Seeb,1720.5827,1.14
-Al Oruba,1439.9118,1.16
+Al Seeb,1720.5813,1.14
+Al Oruba,1439.9079,1.16
 Taipower,1530.3475,1.09
 Enugu Rangers,1548.0245,1.01
 Enyimba,1565.3639,0.96
@@ -1649,54 +1649,54 @@ Wikki Tourist,1433.5697,1.04
 Katsina United,1472.8176,0.98
 Warri Wolves,1470.2573,0.97
 Kwara United,1493.4217,1.0
-Universitario,1463.1365,1.0
+Universitario,1463.1372,1.0
 Macará,1486.5021,0.98
-Deportivo Maldonado,1445.8184,1.09
-Torque,1494.1828,1.18
-Rentistas,1387.1707,1.17
+Deportivo Maldonado,1445.8447,1.09
+Torque,1494.2075,1.18
+Rentistas,1387.1808,1.17
 Giravanz Kitakyushu,1391.0188,1.1
 ThespaKusatsu Gunma,1328.2204,0.99
 Shamrock Rovers Res.,1462.4778,1.03
 UiTM,1431.7198,1.03
-Nashville SC,1497.6301,1.04
+Nashville SC,1500.9968,1.05
 Surkhon,1389.9853,1.08
 PDRM,1464.3143,1.04
-Defensa y Justicia,1511.0849,1.15
+Defensa y Justicia,1511.0713,1.15
 América de Cali,1489.6794,1.04
-Tigre,1521.001,1.06
+Tigre,1520.9889,1.06
 Estudiantes Mérida,1484.8718,1.06
-Tanjong Pagar,1325.5686,1.32
 Deportivo Binacional,1440.0079,1.12
+Tanjong Pagar,1325.5686,1.32
 Metalourg,1470.7812,0.97
 Bunyodkor,1488.9443,1.2
 Sabah,1621.1017,1.21
-San Marcos,1498.7963,1.07
+San Marcos,1498.8518,1.07
 OKC Energy,1456.5676,1.0
 FC Caspiy,1411.0455,1.16
-Racing Club,1617.4925,1.26
-Kokand-1912,1457.6995,1.11
+Racing Club,1624.8578,1.24
 Mash'al,1408.9801,1.03
+Kokand-1912,1457.6995,1.11
 Lokomotiv,1446.6402,1.17
 Kabel Novi Sad,1293.9973,1.12
 Belshina,1351.6565,1.16
 Ruh Brest,1603.815,1.16
 Smolevichy-STI,1365.981,1.2
 Tatung,1506.3988,1.14
-Ming Chuan University,1344.6343,1.2
 Hang Yuen FC,1535.5673,1.04
 Taichung Futuro,1584.5613,1.08
+Ming Chuan University,1344.6343,1.2
 Tainan City,1713.5697,1.25
 NTUPES,1453.4611,1.09
 Legion,1395.8983,1.12
 Mladost Lješkopolje,1417.6143,1.2
 Nasaf,1682.6411,0.93
-Akropolis,1451.0286,1.07
-Ljungskile,1406.8006,1.02
+Akropolis,1451.0291,1.07
+Ljungskile,1406.8098,1.02
 Grótta,1396.9535,1.06
-Umeå,1318.0441,1.17
+Umeå,1317.9511,1.17
 Fjölnir,1401.6113,1.05
 Haka,1511.8429,1.16
-Kyzyl-Zhar,1499.7166,0.99
+Kyzyl-Zhar,1499.7168,0.99
 Stjørdals-Blink,1318.2703,1.18
 Åsane,1433.2473,1.22
 Grorud,1352.9492,1.25
@@ -1709,92 +1709,92 @@ El Paso Locomotive,1461.3593,1.05
 Orange County SC,1500.1771,1.09
 Austin Bold,1523.6342,1.09
 Atlanta United II,1437.3201,1.38
-Inter Miami,1573.7259,1.26
+Inter Miami,1580.0347,1.28
 San Diego Loyal,1575.2732,1.28
 Lyn W,1458.3557,1.03
 Lillestrøm W,1528.4641,1.08
-Colorado Springs,1564.2707,1.17
-Las Vegas Lights,1463.8467,1.1
-Taicheng,1386.1869,1.13
+Las Vegas Lights,1457.7432,1.09
 Pécsi MFC,1437.7553,0.81
+Colorado Springs,1564.2707,1.17
+Taicheng,1386.1869,1.13
 Szentlőrinc SE,1490.7544,1.03
 DEAC,1389.5722,1.07
 CSKA 1948 Sofia,1552.2097,1.04
 Røa Women,1469.5017,1.04
-Brusque,1455.5382,0.8
-Ituano,1428.435,1.15
-Tre Fiori,1493.3131,1.0
+Ituano,1428.4353,1.15
+Brusque,1455.5385,0.8
 Montana,1434.9489,1.05
+Tre Fiori,1493.3131,1.0
 Pelister,1391.3365,1.01
 Manaus,1443.1143,1.04
 Jacuipense,1465.0693,0.98
+Opatija,1541.1475,1.06
 Dečić,1569.5534,0.91
-Opatija,1541.1532,1.06
 Loznica,1447.2877,1.11
 NK Junak Sinj,1447.4874,1.16
-Floriana,1494.2956,1.0
 Pacific FC,1468.552,1.09
+Floriana,1494.2956,1.0
 Atlético Ottawa,1548.4605,1.17
-Edmonton,1453.6481,1.08
-Argeș,1454.839,1.06
-Dubrava Zagreb,1450.6628,1.08
-Železničar Pančevo,1595.6316,1.14
-Stade Briochin,1466.245,1.1
 Annecy,1491.5915,1.12
+Stade Briochin,1466.245,1.1
+Edmonton,1453.6481,1.08
 KMSK Deinze,1515.8316,1.19
-Cibalia,1474.3419,1.19
+Argeș,1454.839,1.06
+Železničar Pančevo,1595.6316,1.14
+Dubrava Zagreb,1450.6531,1.08
+Cibalia,1474.3325,1.19
 FK Jezero Plav,1470.0074,1.04
-Dubočica,1439.665,1.14
 Sloga Kraljevo,1422.6187,0.99
+Dubočica,1439.665,1.14
+Inhulets,1425.5575,0.95
 Jagodina,1414.7004,1.07
-Croatia Zmijavci,1437.6643,1.11
-Inhulets,1425.5578,0.95
+Croatia Zmijavci,1437.6549,1.11
 Sporting KC II,1452.6623,1.26
 Tirana,1502.1562,0.99
-UTA Arad,1521.2701,1.04
-Sète,1446.2447,0.99
 RFC Seraing,1333.1621,1.1
-Lierse Kempenzonen,1441.4431,1.2
+Sète,1446.2447,0.99
+UTA Arad,1521.2701,1.04
 Górnik Łęczna,1499.3102,1.04
-Koper,1611.421,1.1
+Lierse Kempenzonen,1441.4431,1.2
+Koper,1611.4527,1.1
 Hapoel Kfar Shalem,1466.2924,1.2
 Blansko,1464.7652,1.01
 Bastia,1510.7428,1.11
 Chengdu Better City FC,1761.6623,1.11
-Orijent 1919,1498.639,1.08
+Orijent 1919,1498.6304,1.08
 Barrow,1418.5402,1.04
 Taizhou Yuanda,1482.3623,1.02
 Sichuan Jiuniu,1523.8241,1.14
-Minai,1421.1825,1.06
+Minai,1421.1823,1.06
 Zhejiang FC,1651.3549,1.31
 Shenyang Urban,1545.7787,1.21
 Widzew Łódź,1527.4683,1.08
 Omonia Nicosia,1521.5585,0.96
 Kunshan,1688.122,1.16
 Radnički Sr. Mitrovica,1464.359,0.87
-RWDM,1537.9167,1.07
+RWDM,1537.9168,1.07
 Rapid Wien II,1412.0034,1.21
 Haverfordwest County,1606.7615,0.98
-CD Castellón,1496.1002,1.27
+CD Castellón,1496.1001,1.27
 Tuzlaspor,1444.3268,1.06
 VfB Lübeck,1347.1234,1.18
 Espinho,1548.6255,0.99
-Harrogate Town,1375.8814,1.05
-Bandırmaspor,1537.8475,1.16
+Harrogate Town,1375.8813,1.05
+Bandırmaspor,1527.735,1.17
 Merelinense,1492.8399,1.12
 Pedras Rubras,1477.2467,1.04
 Pedras Salgadas,1521.6011,1.01
 Coimbrões,1402.2929,1.01
 Mirandela,1435.2309,0.97
 Tirsense,1566.0572,1.19
-FC Cartagena,1341.2393,1.16
+FC Cartagena,1341.2392,1.16
 Jiangxi Liansheng,1344.9031,1.19
 Suzhou Dongwu,1504.5383,1.08
 Samsunspor,1628.5681,1.07
 SC Beira-Mar,1557.2921,1.12
-FC Vizela,1555.2238,1.12
-Rukh Vynnyky,1534.4137,0.95
-Monza,1468.3919,1.11
+FC Vizela,1555.2237,1.12
+Rukh Vynnyky,1534.4134,0.95
+Monza,1468.3921,1.11
 Verl,1502.0929,1.22
 Saarbrucken,1531.6664,1.15
 UD Logroñés,1416.5122,0.99
@@ -1802,27 +1802,27 @@ Flint Town United,1491.9119,1.2
 IMT Novi Beograd,1564.1941,1.14
 Reggiana,1408.5719,1.06
 Türkgücü-Ataspor,1447.8724,1.07
-UT Pétange,1547.6883,1.1
-Amarante,1567.1838,1.07
+UT Pétange,1547.6893,1.1
 Vicenza,1401.3531,1.09
+Amarante,1567.1838,1.07
 Reggina,1445.567,1.07
 Vila Real,1510.9312,1.06
 Salgueiros,1608.7555,1.11
+Paredes,1586.6945,0.96
+Sanjoanense,1518.0652,1.16
 Anadia,1480.815,1.1
 Lusitano FCV,1451.7462,0.98
 Canelas 2010,1477.751,1.12
-Paredes,1586.6945,0.96
-Rodange,1347.2943,1.21
+Rodange,1347.2948,1.21
 CE Sabadell FC,1417.8257,1.14
-Felgueiras 1932,1546.7554,1.06
+Felgueiras 1932,1546.7553,1.06
 AR São Martinho,1476.4921,1.08
 Vilaverdense,1393.8903,1.07
 Maria da Fonte,1442.0979,1.14
 Cerveira,1423.118,0.93
-Sanjoanense,1518.0652,1.16
 Águeda,1451.227,0.94
-Raith Rovers,1474.4274,1.08
 Berço,1446.8325,1.09
+Raith Rovers,1474.4337,1.08
 Gondomar SC,1530.7581,1.0
 Fafe,1518.8904,1.15
 Castro Daire,1464.2206,1.04
@@ -1839,8 +1839,8 @@ Mondinense,1389.3021,1.16
 Leça,1609.7888,1.13
 Mes Rafsanjan,1487.9106,1.02
 Moroka Swallows,1458.0489,0.97
-Jeunesse d'Esch,1564.3574,1.11
-Differdange 03,1748.787,1.08
+Jeunesse d'Esch,1564.3587,1.11
+Differdange 03,1748.7887,1.08
 Lusitania Lourosa,1637.9959,1.1
 RC Relizane,1373.7634,1.39
 TS Galaxy,1542.9851,0.97
@@ -1848,139 +1848,139 @@ Maghreb Fès,1529.9494,0.98
 Chabab Mohammedia,1294.3336,1.07
 Resovia Rzeszów,1423.8131,1.18
 JSM Skikda,1343.1446,1.07
-Al-Ain,1417.8966,1.1
-Ceramica Cleopatra,1581.3751,1.19
-Sohar,1519.9191,1.07
+Al-Ain,1418.0367,1.1
+Ceramica Cleopatra,1581.3349,1.19
+Sohar,1519.9181,1.07
 Valadares Gaia,1455.1322,1.23
-Brito,1528.5114,1.15
 Rejiche,1429.7548,0.94
-National Bank of Egypt,1572.2536,1.19
-Oman Club,1588.2811,1.01
-Muscat,1451.206,0.99
-Olympique Béja,1466.9319,1.0
+Brito,1528.5114,1.15
+National Bank of Egypt,1572.2397,1.19
 Águia FC Vimioso,1466.6045,1.05
-Ghazl El Mehalla,1427.2818,1.07
+Muscat,1451.2106,0.99
+Oman Club,1588.2749,1.01
+Olympique Béja,1466.9319,1.0
+Ghazl El Mehalla,1428.2964,1.07
+Al-Rustaq,1511.8318,0.9
+Saham,1458.8202,1.15
 WA Tlemcen,1325.7783,1.18
-Al-Rustaq,1511.9059,0.9
-Saham,1458.8211,1.15
-Al Suwaiq,1560.5528,1.03
-Bahla,1492.7381,1.05
+Al Suwaiq,1560.5583,1.03
+Bahla,1492.7373,1.05
 Macarthur,1466.7386,1.26
 Rio Ave II,1470.9789,1.03
-Dhofar,1494.439,1.13
-Al-Nahda,1688.6001,1.01
-Al Musannah,1538.7977,1.04
-Nizwa,1421.1123,1.16
+Al-Nahda,1688.5983,1.01
+Dhofar,1494.4349,1.13
+Al Musannah,1538.7981,1.04
+Nizwa,1421.1141,1.16
 Vila Cortez,1397.2473,1.15
 Marítimo II,1472.9549,1.2
-Unión Santa Fe,1470.9376,0.91
-Central Córdoba SdE,1517.2054,1.15
-Aldosivi,1373.78,1.26
-Vélez Sarsfield,1542.1331,1.03
+Unión Santa Fe,1470.9266,0.91
+Central Córdoba SdE,1504.9777,1.15
+Aldosivi,1373.7688,1.26
+Vélez Sarsfield,1546.7231,1.01
 Vidago,1474.5071,1.02
-Gimnasia La Plata,1445.061,0.93
-Arsenal de Sarandí,1405.3199,0.97
-Lanús,1524.5039,1.08
-Patronato,1469.5444,1.09
-Sarmiento,1437.6711,0.9
-Argentinos Juniors,1562.6287,0.94
-Newell's Old Boys,1472.3148,0.99
-Colón,1441.211,1.05
-Etzella Ettelbrück,1364.8177,1.24
+Gimnasia La Plata,1445.051,0.93
+Arsenal de Sarandí,1405.3133,0.97
+Lanús,1524.481,1.08
+Sarmiento,1437.661,0.9
+Argentinos Juniors,1562.6179,0.94
+Patronato,1469.5435,1.09
+Newell's Old Boys,1472.3047,0.99
+Colón,1441.2049,1.05
+Etzella Ettelbrück,1364.8179,1.24
 Sagamihara,1421.1724,0.98
-Platense,1539.2778,0.82
-UNA Strassen,1610.1064,1.06
+Platense,1539.2482,0.82
+UNA Strassen,1610.1077,1.06
 Pulau Pinang,1467.8703,1.13
 07 Vestur,1449.307,1.2
 B68,1384.3692,1.07
 Turan,1375.1949,0.99
 Sputnik,1424.3308,1.1
-Swift Hesperange,1696.3739,1.27
+Swift Hesperange,1696.3747,1.27
 Blaublitz Akita,1454.6931,0.97
 Treaty United,1408.596,1.11
-Turan Turkistan,1444.0163,0.95
-Landskrona,1465.1358,1.19
-Victoria Rosport,1492.9741,1.12
-Vaprus,1435.4515,1.13
+Turan Turkistan,1444.0164,0.95
+Landskrona,1465.1398,1.19
+Victoria Rosport,1492.9754,1.12
+Vaprus,1435.4518,1.13
 TB / FCS / Royn,1356.5981,1.03
-Vasalund,1418.401,1.1
-Värnamo,1506.1675,1.06
-Club Always Ready,1486.0206,1.11
+Vasalund,1418.4014,1.1
+Värnamo,1506.1689,1.06
+Club Always Ready,1486.0226,1.11
 Smorgon,1399.0319,1.17
-Häcken W,1754.4944,1.15
+Häcken W,1754.4846,1.15
 Wuhan Three Towns,1598.5336,1.11
 BIT,1285.8867,1.08
 Oulu,1456.5058,1.14
-Mondorf-les-Bains,1489.6116,1.15
+Mondorf-les-Bains,1489.6128,1.15
 KTP,1340.7487,1.13
 Leiknir Reykjavík,1385.4959,1.13
 Keflavík,1415.8133,1.17
 Zibo Cuju,1421.2244,1.09
 Nanjing City,1474.1942,1.09
-Wiltz,1414.8901,1.2
-Villa Española,1406.8236,1.1
-Cerrito,1379.9323,1.09
+Wiltz,1414.8913,1.2
+Villa Española,1406.8281,1.1
+Cerrito,1379.8062,1.09
 Bryne,1562.943,1.12
 Fredrikstad,1632.6662,1.04
-Sud América,1453.9842,1.07
-AIK Women,1351.8696,1.19
-Novorizontino,1581.6459,1.07
+Sud América,1453.991,1.07
 Floresta,1435.5128,0.9
+AIK Women,1351.859,1.19
+Novorizontino,1581.6464,1.07
 Altos,1406.1594,1.13
-Mirassol,1615.6844,1.02
-Austin,1458.9823,1.01
+Mirassol,1615.6848,1.02
+Austin,1459.8612,1.01
 S.S. Folgore,1488.7768,1.0
 Prishtina,1505.8221,1.01
 Oakland Roots,1435.2818,1.16
-Žalgiris,1555.1135,0.99
+Žalgiris,1555.1137,0.99
 Teuta Durrës,1477.806,1.01
 Lincoln Red Imps,1480.3344,1.04
 Neftçi,1512.1016,1.0
 Rapid Bucureşti,1612.2109,1.1
 Mioveni,1366.537,1.04
 Havelse,1364.2102,1.08
-Viktoria Berlin,1406.0713,1.12
 SSC Farul,1549.5216,1.13
-Metalist 1925 Kharkiv,1423.5194,1.12
-Radomlje,1486.9563,1.15
+Radomlje,1486.9865,1.15
+Metalist 1925 Kharkiv,1423.5191,1.12
+Viktoria Berlin,1406.0713,1.12
 Freiburg II,1415.9865,1.04
 U Craiova 1948,1460.5858,1.21
-Fernández Vial,1438.5561,1.09
-Vyškov,1525.5534,0.98
+Fernández Vial,1438.5659,1.09
+Yverdon Sport,1468.8709,1.17
 Borussia Dortmund II,1443.6865,1.13
-Viborg,1537.1441,1.2
-Yverdon Sport,1468.872,1.17
-III. Kerületi TUE,1439.2519,1.08
-Lokomotiv Sofia 1929,1484.9882,1.14
+Vyškov,1525.5534,0.98
+Viborg,1537.1429,1.2
 Sparta Praha II,1437.2106,1.29
 Polkowice,1417.6231,1.05
-OFK Pirin,1421.9271,1.01
+III. Kerületi TUE,1439.2519,1.08
+Lokomotiv Sofia 1929,1484.9882,1.14
+OFK Pirin,1421.9273,1.01
 Sedan,1461.4949,1.09
 Hartlepool United,1373.8301,1.17
 Tikveš,1509.727,1.04
 Bregalnica Štip,1433.5396,1.1
+Real Sociedad II,1530.9569,1.1
 Torreense,1509.1124,1.07
 Oriental Dragon,1469.4241,1.14
-Real Sociedad II,1530.957,1.1
 Kocaelispor,1561.6922,1.12
-Al Urooba,1340.2397,1.12
+Al Urooba,1340.2474,1.12
 Eyüpspor,1635.9673,1.11
-União Santarém,1611.4726,1.1
-Oliveira Hospital,1446.8152,1.1
 União de Leiria,1524.485,1.1
-Jarun,1438.2065,1.02
+Jarun,1438.1971,1.02
+Oliveira Hospital,1446.8152,1.1
+União Santarém,1611.4726,1.1
 Alverca,1614.5451,1.15
 Manisa BBSK,1416.7695,1.13
 Sporting CP II,1583.3915,1.1
 Timok,1445.4477,1.01
 UD Ibiza,1540.0786,1.1
 Real Kings,1439.9276,1.12
-Al Ta'ee,1399.4711,1.14
 Bali United,1550.0011,1.17
+Al Ta'ee,1399.4515,1.14
 Sutton United,1380.0911,1.19
 Caldas,1478.7694,1.12
-Burgos CF,1471.3413,0.99
-SD Amorebieta,1432.7789,1.15
+Burgos CF,1471.3412,0.99
+SD Amorebieta,1432.7788,1.15
 União de Coimbra,1474.9201,1.11
 Sertanense,1487.3874,1.06
 Ferreira de Aves,1425.5628,1.02
@@ -2001,7 +2001,7 @@ Chiangrai United,1475.7016,1.08
 Vitória de Sernache,1447.1761,1.05
 Persela,1401.6757,1.14
 Bangkok Glass,1611.2322,1.15
-Como,1590.2532,1.12
+Como,1590.2533,1.12
 US Alessandria,1401.7586,1.07
 Suphanburi,1443.9397,1.17
 Persiraja Banda Aceh,1348.4332,1.11
@@ -2010,7 +2010,7 @@ Barito Putera,1473.2782,1.2
 Madura United,1488.2974,1.14
 Bangkok United,1715.0909,1.16
 Muang Thong United,1584.5009,1.24
-Al Shamal,1464.4403,1.16
+Al Shamal,1464.4548,1.16
 Amora,1566.4219,1.11
 Ionikos,1427.7986,1.1
 Samut Prakan City,1457.7973,1.03
@@ -2034,19 +2034,19 @@ Ratchaburi,1593.2284,1.25
 Persipura,1488.2337,1.12
 Fontinhas,1467.7824,1.1
 Vila Meã,1473.0981,1.21
-Coca-Cola,1559.9592,0.96
+Coca-Cola,1558.6339,0.96
 Persija,1546.5083,1.11
 Sekhukhune United,1550.5487,1.03
 HB Chelghoum Laïd,1374.1213,1.17
 Zarzis,1514.7673,0.96
 Peniche,1499.3774,1.08
-El Sharqia Dokhan,1477.3091,1.1
+El Sharqia Dokhan,1477.307,1.1
 RC Arbaâ,1527.4355,1.2
-Pharco,1520.068,0.95
+Pharco,1520.0513,0.95
 Hammam-Sousse,1453.8128,0.97
 Fajr Sepasi,1419.2163,0.85
 Havadar,1436.0413,1.05
-Estrela Amadora,1481.1959,1.04
+Estrela Amadora,1481.1958,1.04
 União Idanhense,1473.7351,1.11
 Gombe United,1415.7126,1.18
 Remo Stars,1617.4833,1.09
@@ -2063,42 +2063,42 @@ Camacha,1499.1512,1.09
 César Vallejo,1482.5018,0.99
 Kecskeméti TE,1546.0611,1.05
 Santa Marta Penaguião,1483.061,1.01
-Recoleta,1462.6873,1.05
+Recoleta,1462.6896,1.05
 Roasso Kumamoto,1444.3786,1.17
 Skopje,1433.2931,1.0
 CD Universidad Católica,1493.2107,0.98
 Selangor United,1417.7525,1.1
 Sydney Olympic,1540.3572,1.18
 Sydney United,1491.1602,1.14
-Charlotte,1523.4996,1.1
+Charlotte,1512.359,1.13
 Sydney II,1459.1526,1.19
 Termez Surkhon,1495.7299,1.08
-FK Aksu,1423.7161,1.1
+FK Aksu,1423.7162,1.1
 Maqtaaral,1485.4476,1.05
 North Shore Mariners,1435.8614,1.16
 Sutherland Sharks,1393.2552,1.02
 Gimpo Citizen,1447.7824,1.0
-Albion,1456.4465,1.04
+Albion,1456.4632,1.04
 Olympic,1466.2431,1.11
 Wollongong Wolves,1526.3942,1.2
 Neftchi,1609.1407,1.04
 Detroit City FC,1555.8373,0.91
 Grulla Morioka,1350.1184,1.13
 APIA Leichhardt Tigers,1608.5282,1.35
-Kalmar W,1325.1271,1.18
+Kalmar W,1325.1172,1.18
 Marconi Stallions,1694.5752,1.19
 Manly United,1482.6488,1.06
 Blacktown City,1594.7041,1.2
-Brommapojkarna W,1397.2951,1.18
+Brommapojkarna W,1397.2855,1.18
 Negeri Sembilan,1432.2511,1.13
-Deportivo Cali,1519.2736,0.99
-Independiente Petrolero,1440.9602,1.1
-Skövde AIK,1360.0533,1.16
+Deportivo Cali,1519.2734,0.99
+Independiente Petrolero,1440.9604,1.1
+Skövde AIK,1360.0608,1.16
 Uniclinic,1440.7941,1.09
-Utsikten,1473.4157,1.2
-Aparecidense,1436.1741,1.07
+Utsikten,1473.4202,1.2
+Aparecidense,1436.1742,1.07
 Campinense,1432.5484,1.03
-Fram,1462.1994,1.22
+Fram,1456.3475,1.22
 Arsenal Dzyarzhynsk,1457.2605,1.03
 Rochester Rhinos,1507.2685,1.09
 Columbus Crew II,1533.1176,1.24
@@ -2118,127 +2118,127 @@ Inter Club d'Escaldes,1494.8834,1.0
 Hebei Kungfu,1556.6628,1.01
 Pyunik,1523.7404,0.98
 Ballkani,1506.4571,1.02
-Spartak Varna,1487.5314,1.19
+Spartak Varna,1487.5315,1.19
 Rīgas FS,1546.141,1.04
 Ruch Chorzów,1521.5218,1.17
-Bellinzona,1421.431,1.09
-Stal Rzeszów,1453.7273,1.18
+Bellinzona,1421.4309,1.09
 Skalica,1488.6756,1.04
+Stal Rzeszów,1453.7273,1.18
 AC Taipei,1530.0605,1.06
 Petrolul 52,1492.7291,1.02
-Hebar 1918,1366.3133,1.11
-First Vienna,1512.4554,1.18
+Hebar 1918,1366.3135,1.11
+First Vienna,1512.4553,1.18
 Arsenal Tivat,1486.2199,1.1
 Jedinstvo,1472.3507,1.2
 Liptovský Mikuláš,1379.6585,1.09
-VfB Oldenburg,1411.1756,1.05
 Rot-Weiss Essen,1506.225,1.16
+VfB Oldenburg,1411.1756,1.05
 Universitatea Cluj,1590.1201,1.07
 Persis Solo,1489.7997,1.1
-AEK Larnaca,1509.2503,1.0
-Barracas Central,1455.8442,1.0
+AEK Larnaca,1509.2501,1.0
+Barracas Central,1455.8478,1.0
 Cilegon United,1385.0869,1.16
-Stockport County,1616.5513,1.1
-Cove Rangers,1373.862,1.13
-Slavia Praha U21,1459.6308,1.17
-Sigma Olomouc II,1479.1238,1.14
+Cove Rangers,1373.8621,1.13
+Stockport County,1616.5504,1.1
 Dewa United,1629.8111,1.17
 Sturm Graz II,1455.2463,1.16
+Slavia Praha U21,1459.6308,1.17
+Sigma Olomouc II,1479.1238,1.14
 Minnesota United II,1468.9581,1.2
-Al Markhiya,1420.6027,1.11
-Queen's Park,1398.4008,1.12
+Al Markhiya,1420.6123,1.11
 OFK Vršac,1450.9055,0.93
-Elversberg,1598.9818,1.2
+Queen's Park,1398.4076,1.12
 Bayreuth,1361.5426,1.16
-Radnički Novi Beograd,1368.199,1.17
+Elversberg,1598.9818,1.2
 Dukla Banská Bystrica,1413.6137,1.21
+Radnički Novi Beograd,1368.199,1.17
 Jedinstvo Ub,1483.5054,1.15
 Kozármisleny,1487.576,1.19
+UN Käerjéng,1417.1457,1.04
 Colorado Rapids II,1511.7331,1.27
-UN Käerjéng,1417.1447,1.04
 Novi Sad,1386.838,1.14
-Richards Bay,1451.9375,0.87
 Apollon,1512.6769,1.01
-FCV Dender EH,1508.8206,1.22
+Richards Bay,1451.9375,0.87
+FCV Dender EH,1508.8205,1.22
 Versailles,1462.2516,1.14
 Lampang,1389.7862,1.08
 Pontypridd Town AFC,1440.0157,0.98
+Mondercange,1369.3282,1.12
 Sakaryaspor,1466.5253,1.17
 BB Bodrumspor,1574.996,0.83
-Sukhothai,1456.4342,1.2
 Modena,1449.0529,1.09
-Mondercange,1369.3266,1.12
+Sukhothai,1456.4342,1.2
 Dnepr Mogilev,1368.0716,1.09
 Malavan,1537.4584,1.09
-Sur,1458.5456,1.06
-Martigues,1454.7662,1.1
-Mes Kerman,1463.0283,1.0
-Paris 13 Atletico,1428.7541,0.98
+Sur,1458.5677,1.06
 Villarreal II,1477.7496,1.16
+Paris 13 Atletico,1428.7541,0.98
+Mes Kerman,1463.0283,1.0
+Martigues,1454.7662,1.1
 Lamphun Warrior,1506.2752,1.08
-Pendikspor,1467.6724,1.08
 Südtirol,1453.3558,1.16
+Pendikspor,1467.6724,1.08
 Maccabi Kabilio Jaffa,1453.2734,1.18
 Moncarapachense,1503.4437,1.03
 Club Brugge II,1482.0494,1.14
 Ironi Tiberias,1541.9974,1.05
-Metal Kharkiv,1395.4671,1.06
+Metal Kharkiv,1395.4669,1.06
+Standard Liège II,1296.8579,1.08
 USM Khenchela,1510.7639,0.96
-Standard Liège II,1296.8578,1.08
 El Bayadh,1541.6506,0.91
+Hirnyk,1572.6195,1.03
 FC Andorra,1499.9739,1.06
-Hirnyk,1572.62,1.03
+Al Bataeh,1440.3883,1.11
 UTS Rabat,1492.6643,1.13
-Al Bataeh,1440.3031,1.11
 RSC Anderlecht II,1393.7811,1.21
-Al Bashair,1435.7449,1.06
-KRC Genk II,1323.0021,1.22
-HNK Vukovar 1991,1624.2976,1.07
+Al Bashair,1435.884,1.06
+KRC Genk II,1323.0022,1.22
+HNK Vukovar 1991,1624.2889,1.07
+Rio Maior SC,1408.3914,1.08
 1 Dezembro,1488.6572,1.06
 Monção,1467.0232,1.17
 Juventude Évora,1513.8004,1.0
 CF Esperança de Lagos,1502.1396,1.06
 Rebordosa,1565.4094,1.05
 Ferreiras,1425.0664,1.03
-Rio Maior SC,1408.3914,1.08
 Houston Dynamo FC II,1470.6828,1.22
 Pêro Pinheiro,1373.3756,1.06
-Sintrense,1544.4897,1.13
 Alcains,1395.0733,1.04
-Fabril Barreiro,1500.9408,1.02
+Sintrense,1544.4897,1.13
+Coruchense,1508.4544,1.07
 Angrense,1428.5946,1.1
 Dumiense,1448.0349,1.24
-Coruchense,1508.4544,1.07
-Atlético CP,1523.2076,1.06
-Arronches e Benfica,1464.7394,1.03
-Mortágua,1486.2289,1.1
-Vilar de Perdizes,1492.8713,1.08
+Fabril Barreiro,1500.9408,1.02
 FC Serpa,1542.4316,1.14
+Vilar de Perdizes,1492.8713,1.08
+Mortágua,1486.2289,1.1
+Atlético CP,1523.2076,1.06
 Alpendorada,1503.8231,1.11
+Arronches e Benfica,1464.7394,1.03
 Imortal Albufeira,1437.911,1.11
-Rabo Peixe,1501.8292,1.05
-Vere United,1375.8019,1.08
 Loures,1444.3241,1.09
 UD da Serra,1464.2524,1.11
+Rabo Peixe,1501.8292,1.05
+Vere United,1375.8019,1.08
 Guarda Desportiva,1363.3178,1.14
 Machico,1482.4465,1.02
 Faulkland,1412.2433,1.11
-Chapelton,1388.234,1.06
-EO Sidi Bouzid,1463.7988,1.08
 SC Olhanense,1415.1525,1.09
+EO Sidi Bouzid,1463.7988,1.08
+Chapelton,1388.234,1.06
 Vasco da Gama Vidigueira,1485.7234,1.03
-Instituto,1460.253,1.11
+Instituto,1460.2417,1.11
 Bayelsa United,1536.8169,1.07
-Belgrano,1480.2011,1.02
-La Luz,1458.3774,1.13
+Belgrano,1480.1904,1.02
+La Luz,1458.4018,1.12
 Sport Huancayo,1494.5637,1.03
 Nacional Potosí,1472.0969,1.06
 Western Sydney W. II,1517.4699,1.3
-CD El Nacional,1504.8109,1.09
+CD El Nacional,1504.8107,1.09
 Kerry,1284.3856,1.08
 Iwaki,1426.7125,1.07
-Bulls Academy,1375.4005,1.07
 Fujieda MYFC,1428.4651,1.12
+Bulls Academy,1375.4005,1.07
 Cheonan City,1358.4772,1.11
 Cheongju,1382.9089,1.02
 St George City FA,1518.5654,1.04
@@ -2246,23 +2246,23 @@ St. Louis City,1448.1488,1.08
 Kelantan,1358.6765,1.38
 Kuching FA,1497.3905,1.06
 Kelantan United,1310.8699,1.21
-Harju Jalgpallikool,1402.4106,1.09
+Harju Jalgpallikool,1402.4107,1.09
 San Jose Earthquakes II,1528.8154,1.07
-Norrköping W,1516.218,1.01
+Norrköping W,1516.212,1.01
 Naftan,1416.2723,1.16
 St. Louis City II,1527.9699,1.09
-Metropolitanos,1471.3077,1.01
-SD Aucas,1478.0682,1.03
-Deportivo Pereira,1520.0991,0.96
-Monagas,1494.1491,1.02
+Metropolitanos,1471.3089,1.01
+Deportivo Pereira,1520.0963,0.96
+SD Aucas,1478.0689,1.03
+Monagas,1494.1456,1.02
 Austin II,1526.485,1.12
-Moss,1492.2961,1.13
 North Texas,1491.0751,1.24
-Gefle,1397.3746,1.13
+Gefle,1397.38,1.13
 Hødd,1452.2805,0.95
+Moss,1492.2961,1.13
 Crown Legacy,1558.7793,1.14
 Central Coast II,1435.3696,1.15
-Uppsala W,1425.3944,1.09
+Uppsala W,1425.3903,1.09
 Chicago Fire II,1461.0443,1.21
 Åsane Women,1386.9397,1.05
 Brann W,1518.2606,1.08
@@ -2271,10 +2271,10 @@ Wuxi Wugou,1378.1358,1.16
 Dongguan United,1404.9277,1.07
 Los Angeles II,1445.994,1.08
 América RN,1458.4653,0.96
-São Bernardo,1501.2378,0.9
+São Bernardo,1501.2379,0.9
 Dantong Hantong,1454.5718,1.0
 Jinan Xingzhou,1503.1762,0.99
-Amazonas,1487.5338,0.93
+Amazonas,1487.534,0.93
 Pouso Alegre,1424.3908,0.97
 Trondheims-Ørn,1539.8144,1.08
 Vancouver FC,1395.0509,1.07
@@ -2286,129 +2286,129 @@ Tre Penne,1490.0598,1.03
 Banants,1502.8845,1.02
 Hamrun Spartans,1492.7565,0.99
 Oţelul Galaţi,1528.5526,0.93
-Levski Krumovgrad,1457.214,0.96
-Valmiera / BSS,1491.2807,1.0
+Levski Krumovgrad,1457.2141,0.96
+Valmiera / BSS,1491.2815,1.0
 Motor Lublin,1549.0531,1.2
-Polonia Warszawa,1508.4958,1.1
+Polonia Warszawa,1503.1935,1.1
 Mladost DG,1446.8961,1.08
 Znicz Pruszków,1513.2391,1.1
-Stade Nyonnais,1360.7305,1.15
+Stade Nyonnais,1360.7304,1.15
 Schwarz-Weiß Bregenz,1410.9399,1.23
 Leoben,1531.3644,1.03
-Obolon-Brovar,1443.8704,0.94
+Obolon-Brovar,1443.8702,0.94
 Hanácká,1403.0452,1.09
-FK Košice,1521.384,1.07
+FK Košice,1521.3841,1.07
 BVSC,1475.3162,0.92
-LNZ Cherkasy,1481.7008,0.99
+LNZ Cherkasy,1481.7005,0.99
 Baden,1334.3373,1.14
-Al Jalil,1409.9402,1.0
-Moghayer Al Sarhan,1376.9266,1.13
+Al Jalil,1409.9443,1.0
+Moghayer Al Sarhan,1376.9287,1.13
 Posusje,1495.4644,0.96
 SV Stripfing Weiden,1437.5884,1.09
-Wrexham,1608.7223,1.04
-Schifflange,1435.054,1.1
-Voska Sport,1490.0511,1.09
-Marisca Mersch,1447.2362,1.13
-Hvidovre,1406.2736,1.05
+Wrexham,1608.7216,1.04
+Schifflange,1435.0549,1.1
 Ulm,1491.9902,1.03
+Hvidovre,1406.273,1.05
+Marisca Mersch,1447.2369,1.13
+Voska Sport,1490.0511,1.09
 Ajax Cape Town,1445.5611,1.02
-Marignane Gignac CB,1443.762,1.09
 Épinal,1433.8837,1.08
+Marignane Gignac CB,1443.762,1.09
 Loughgall,1372.6425,1.23
-RFC Liege,1475.4111,1.11
 Patro Eisden,1546.8287,1.05
-Ma'an,1436.2303,1.09
-Sahab,1435.8636,1.14
-AVS,1493.4261,1.08
+RFC Liege,1475.4111,1.11
 Igman Konjic,1385.9925,1.2
-Polessya,1582.4749,1.01
-Tekstilac Odžaci,1497.8451,1.01
-Airdrieonians,1410.6165,1.11
+AVS,1493.4261,1.08
+Airdrieonians,1410.6237,1.11
+Polessya,1582.4746,1.01
 Uthai Thani,1507.4396,1.02
+Tekstilac Odžaci,1497.845,1.01
+Ma'an,1436.2315,1.09
+Sahab,1435.8657,1.14
 Trat,1434.7033,1.16
-OFK Beograd,1608.1256,1.12
 KF Gostivari,1543.4625,0.97
 Colwyn Bay,1418.935,1.12
-Al Riyadh,1436.096,1.02
+OFK Beograd,1608.1255,1.12
+Al Riyadh,1436.0771,1.02
+Zrinski Jurjevac,1375.6344,1.06
 Şanlıurfaspor,1423.4851,1.03
-Zrinski Jurjevac,1375.6445,1.06
 Shams Azar Qazvin,1477.1557,1.13
-Al Akhdoud,1444.4577,1.06
+Çorum Belediyespor,1509.7885,1.11
+Al Akhdoud,1444.4382,1.06
 Chasselay MDA,1455.9294,1.1
 Rouen,1477.7059,1.1
-Çorum Belediyespor,1509.7885,1.11
-FC Barreirense,1477.7629,1.05
-Francs Borains,1383.7141,1.13
-Rogaška,1476.8386,1.07
-Sandinenses,1483.5496,1.11
 Clube Oriental de Lisboa,1486.5481,1.04
+FC Barreirense,1477.7629,1.05
+Francs Borains,1383.7142,1.13
+Rogaška,1476.8588,1.08
+Sandinenses,1483.5496,1.11
 AD Marco 09,1592.5189,0.92
 Ihud Bnei Shfaram,1322.3978,1.24
-Ibri,1468.4858,0.97
+Ibri,1468.4856,0.97
 Unionistas de Salamanca CF,1479.0809,0.99
 Osasuna II,1449.5446,1.22
 FeralpiSalò,1412.8329,1.15
-Mérida AD,1486.3603,1.15
 Atlético Madrid II,1525.1418,1.08
-Marsa,1430.3431,1.05
-Racing Club de Ferrol,1368.7668,1.02
-Granada II,1407.6192,1.07
-Recreativo de Huelva,1401.1647,1.07
+Mérida AD,1486.3603,1.15
+Florgrade,1526.8045,0.98
 SD Logroñés,1396.2276,1.03
+Granada II,1407.6192,1.07
+Catanzaro,1509.494,1.16
+CD Alcoyano,1430.5309,1.03
+Real Madrid II,1548.1066,1.11
+CD Atlético Baleares,1381.4699,1.03
 Real Unión,1428.048,1.16
 Louletano,1536.4682,1.01
-CD Atlético Baleares,1381.4699,1.03
-Real Madrid II,1548.1066,1.11
-Catanzaro,1509.4939,1.16
-CD Alcoyano,1430.5309,1.03
-Florgrade,1526.8045,0.98
-CD Eldense,1435.4561,1.1
+Racing Club de Ferrol,1368.7667,1.02
+Recreativo de Huelva,1401.1647,1.07
+Marsa,1430.3431,1.05
+CD Eldense,1435.456,1.1
 Maccabi Herzliya,1439.0096,1.16
-Kifisia,1405.071,1.14
-Al Mu'aidar,1427.6795,1.17
-Atlético Sanluqueño CF,1449.3352,1.06
-Linares Deportivo,1450.0342,1.05
+Al Mu'aidar,1427.6882,1.17
+Kifisia,1405.0711,1.14
+Panserraikos,1439.2723,1.12
 Real Murcia,1531.7322,0.99
 Celta de Vigo II,1520.0377,1.21
-Panserraikos,1439.2723,1.12
-Recreativa de Lamelas,1465.6866,1.02
-Lecco,1345.9904,1.16
-EGS Gafsa,1457.1556,1.05
-Algeciras CF,1483.9772,1.09
-Intercity,1398.5067,1.1
+Linares Deportivo,1450.0342,1.05
+Atlético Sanluqueño CF,1449.3352,1.06
 UE Cornellà,1403.3697,0.97
+Algeciras CF,1483.9772,1.09
 Antequera CF,1501.8675,1.24
-UD Melilla,1452.9446,1.01
 CD Teruel,1443.5149,0.96
-Arenteiro,1445.3898,1.05
-Ceuta,1543.3233,1.1
+Intercity,1398.5067,1.1
+Lecco,1345.9905,1.16
+Recreativa de Lamelas,1465.6866,1.02
 União de Tomar,1388.7519,1.12
+Arenteiro,1445.3898,1.05
 Sestao River Club,1448.2132,1.03
+Ceuta,1543.3233,1.1
+UD Melilla,1452.9446,1.01
+EGS Gafsa,1457.1556,1.05
 SD Tarazona,1497.4234,0.86
 San Fernando CD,1446.0585,1.03
 Sloga Doboj,1492.7516,1.03
 Nakhon Pathom,1415.6498,1.11
 Ben Aknoun,1496.5721,1.07
-Baladiyyat Al Mehalla,1426.6922,1.14
+Baladiyyat Al Mehalla,1426.6821,1.14
 US Souf,1373.3397,1.27
 O Elvas,1588.9679,1.02
 Bendel Insurance,1562.4482,0.9
 Sporting Lagos,1483.1582,1.08
 Hai Phong,1520.4011,1.12
 FLC Thanh Hoa,1494.9326,1.14
+Ho Chi Minh City,1457.1051,1.05
+Công An Nhân Dân,1551.1364,1.16
 Nam Dinh,1626.7705,1.21
 Song Lam Nghe An,1467.5867,1.02
-Công An Nhân Dân,1541.3592,1.15
-Ho Chi Minh City,1457.1051,1.05
 Viettel,1544.4727,1.12
-Portosantense,1475.4756,0.94
-Sanna Khanh Hoa,1371.4246,1.1
-Hà Nội II,1491.9863,0.93
 Hoang Anh Gia Lai,1464.7658,1.11
-Ha Noi,1599.7311,1.19
+Hà Nội II,1491.9863,0.93
+Sanna Khanh Hoa,1371.4246,1.1
+Portosantense,1475.4756,0.94
 Quang Nam,1486.622,1.08
 Binh Dinh,1487.9347,1.13
-Binh Duong,1495.4714,1.11
+Ha Noi,1599.7311,1.19
+Binh Duong,1485.6942,1.12
 Lime Hall Academy,1336.1687,1.19
 Doma United,1422.3228,0.95
 Ribeirão,1444.7473,0.98
@@ -2417,50 +2417,50 @@ CF Oliveira Douro,1471.9062,1.05
 Treasure Beach,1389.0986,1.08
 Lusitânia,1469.4853,1.06
 Lusitano Évora 1911,1541.4476,0.89
-Sportivo Ameliano,1521.6442,0.98
-Sportivo Luqueño,1468.9771,1.06
-General Caballero JLM,1475.0727,0.97
-Tacuary,1408.5004,1.14
-Sol de América,1461.3018,1.12
-2 de Mayo,1486.9626,1.02
-Sportivo Trinidense,1525.9633,1.12
-Academia Puerto Cabello,1491.399,1.02
-Aurora,1495.8171,1.02
-Miramar Misiones,1466.3074,1.06
+Sportivo Ameliano,1521.6452,0.98
+Sportivo Luqueño,1468.9778,1.06
+General Caballero JLM,1475.0739,0.97
+Tacuary,1408.5011,1.14
+Sol de América,1461.3028,1.12
+2 de Mayo,1486.9635,1.02
+Sportivo Trinidense,1525.9642,1.12
+Academia Puerto Cabello,1491.4028,1.02
+Aurora,1495.8172,1.02
+Miramar Misiones,1466.3254,1.06
 Rionegro Águilas,1506.736,0.96
 St. George Saints,1480.3812,1.08
-Yelimay Semey,1533.2406,1.07
-Al Wehda,1444.1525,1.12
+Yelimay Semey,1533.2407,1.07
+Al Wehda,1444.1506,1.12
 Telavi,1452.3912,0.99
-Zhenys,1451.8577,0.93
+Zhenys,1451.8579,0.93
 Samgurali,1496.7919,1.1
-Gagra,1466.2069,1.02
-Deportes Limache,1497.6546,1.13
+Gagra,1460.9986,1.03
+Deportes Limache,1497.6612,1.13
 Chongqing Tongliang Long,1572.6155,1.09
 Qingdao Red Lions,1419.5516,1.08
 Yunnan Yukun,1607.0622,1.14
-Nõmme United,1363.6029,1.11
+Nõmme United,1363.6031,1.11
 Hills Brumbies,1462.0338,1.05
 Dalian Zhixing,1548.8107,1.06
 Levanger,1436.7246,1.14
 Gnistan,1522.5005,1.12
-Sandviken,1466.496,1.09
+Sandviken,1466.4997,1.09
 Rhode Island,1540.3279,1.04
-Lyn,1480.6454,1.08
-Oddevold,1451.7652,1.13
+Lyn,1466.2165,1.09
+Oddevold,1451.7674,1.13
 Chattanooga FC,1521.3494,1.05
-Kolkheti Poti,1437.2229,1.14
+Kolkheti Poti,1429.4234,1.14
 Egersund,1474.8455,1.19
-Trelleborg W,1372.5183,1.15
+Trelleborg W,1372.515,1.15
 EIF,1417.4488,1.05
-Ferroviária,1539.2115,0.99
+Ferroviária,1536.2095,0.99
 Taipei Vikings,1415.2126,1.19
-Vestri,1473.0038,1.01
-Deportivo Riestra,1513.7818,0.95
-Independiente Rivadavia,1511.7695,0.93
-Caxias,1472.6805,1.09
+Vestri,1470.5351,1.0
+Deportivo Riestra,1513.7736,0.95
+Independiente Rivadavia,1511.7595,0.93
+Caxias,1472.6806,1.09
 Panevėžys,1508.0517,1.01
-UE Santa Coloma,1489.0772,1.01
+UE Santa Coloma,1489.077,1.01
 Virtus,1482.5842,1.05
 Petrocub,1506.3925,0.96
 Egnatia Rrogozhinë,1506.1195,0.99
@@ -2470,14 +2470,14 @@ Stal Stalowa Wola,1407.1635,1.03
 Pogoń Siedlce,1430.6542,1.06
 SCM Gloria Buzău,1415.336,1.07
 Étoile Carouge,1489.5749,1.07
-Nafta,1475.2704,1.08
+Nafta,1475.2881,1.08
 Kotwica Kołobrzeg,1427.2136,0.99
 Komárno,1495.1018,1.03
 Tatabánya,1420.5708,1.07
 Voitsberg,1441.5558,0.99
 Bokelj,1482.6065,0.94
 Baník Ostrava U21,1469.4583,1.04
-Livyi Bereh,1418.5405,0.91
+Livyi Bereh,1418.54,0.91
 Chesterfield,1462.8316,1.09
 Rayong,1461.1622,1.16
 Sloven Ruma,1453.8743,1.02
@@ -2487,23 +2487,23 @@ Hannover 96 II,1394.8729,1.1
 Besa Dobërdoll,1459.2568,1.11
 Stuttgart II,1468.43,1.08
 Semen Padang,1474.3004,1.09
-Al Khabourah,1504.0037,1.07
+Al Khabourah,1504.0033,1.07
 Malut United,1577.0582,1.07
 PSBS Biak Numfor,1500.4531,1.07
 Otrant-Olympic,1476.0557,1.07
-Bromley,1468.1008,1.1
+Bromley,1468.1007,1.1
 Os Marialvas,1506.0551,1.06
 União Lamas,1520.28,1.06
 76 Iğdır Belediyespor,1528.4982,0.97
 Pombal,1495.1212,1.04
-Bettembourg,1456.0585,1.05
+Bettembourg,1456.0589,1.05
 Estrela Vendas Novas,1402.4504,1.03
 Amed,1515.096,0.96
 Chadormalu SC,1502.7869,0.94
 Aubagne,1490.9032,1.1
 Lokeren-Temse,1463.1088,0.99
-Dibba Al Hisn,1413.2371,1.1
-Al Kholood,1473.6438,1.11
+Dibba Al Hisn,1413.2431,1.1
+Al Kholood,1473.6019,1.11
 RAAL La Louvière,1562.4196,1.02
 Hércules CF,1484.8283,1.12
 Real Betis II,1420.5533,1.14
@@ -2514,7 +2514,7 @@ Moura,1474.1507,1.05
 Fátima,1538.8541,0.95
 Atlético Arcos,1464.0236,1.05
 Cinfães,1512.1478,1.0
-Carrarese,1446.8746,1.04
+Carrarese,1446.8747,1.04
 Kheybar Khorramabad,1492.92,0.98
 Erokspor,1530.4408,1.15
 CP Cacereño,1607.0279,1.09
@@ -2539,7 +2539,7 @@ CD Coria,1502.8105,1.15
 Illescas,1415.2262,1.08
 Atlético Paso,1393.4808,1.13
 Getafe II,1505.2304,1.07
-Al Orubah,1404.6784,1.13
+Al Orubah,1404.6659,1.13
 Oued Akbou,1515.9709,0.97
 Arenas de Getxo,1515.8674,1.01
 Real Sociedad III,1482.7472,1.03
@@ -2552,7 +2552,7 @@ Magesi,1481.2238,0.93
 CODM Meknès,1480.9468,1.07
 Racing United,1521.6849,1.02
 Da Nang,1449.4362,1.06
-Athletic Club,1462.8109,1.04
+Athletic Club,1462.8111,1.04
 Ikorodu City,1553.7185,1.19
 SD Ejea,1499.778,1.0
 ES Mostaganem,1528.1797,0.89
@@ -2564,16 +2564,16 @@ Lagoa,1492.7076,1.01
 Joane,1480.45,1.03
 Operário,1492.9189,0.99
 Estrela II,1488.774,1.09
-San Martín San Juan,1460.7928,0.93
-Atlético Tembetary,1466.6329,0.96
-Deportivo Recoleta,1509.5603,1.11
+San Martín San Juan,1460.7889,0.93
+Atlético Tembetary,1466.6333,0.96
+Deportivo Recoleta,1509.5608,1.11
 Blooming,1500.119,1.04
 Imabari,1518.6209,0.96
 UCV,1500.6784,1.02
-Concepción,1497.4062,1.01
+Concepción,1497.4088,1.01
 Kataller Toyama,1481.2309,0.97
 Hwaseong,1444.5652,1.05
-Gareji,1481.6159,0.98
+Gareji,1494.9198,0.98
 Miami FC II,1483.631,1.01
 Lexington,1467.5333,1.02
 Guangzhou E-Power,1496.793,1.04
@@ -2581,14 +2581,14 @@ Shenzhen Juniors,1467.5205,1.13
 El Kanemi Warriors,1444.2484,1.03
 Suduroy,1484.0766,1.0
 Xorazm,1494.2946,1.02
-Alingsås,1469.5375,1.01
+Alingsås,1469.5365,1.01
 Shaanxi Union,1496.0871,1.07
 Dalian Huayi,1505.6416,0.99
 Ulytau,1467.166,1.01
-Malmö FF W,1509.9608,1.06
-Atlético Bucaramanga,1509.1676,1.03
-San Antonio Bulo Bulo,1490.9226,1.04
-Afturelding,1494.4921,0.99
+Malmö FF W,1509.96,1.06
+Atlético Bucaramanga,1504.8413,1.02
+San Antonio Bulo Bulo,1478.3859,1.05
+Afturelding,1487.8313,0.98
 Itabaiana,1485.9425,1.02
 Retrô,1481.8404,0.96
 Anápolis,1485.5263,1.0
