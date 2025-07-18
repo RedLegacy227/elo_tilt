@@ -339,7 +339,7 @@ Libertad,1578.5771,1.06
 Palmeiras,1769.2061,1.15
 Peñarol,1702.8597,1.07
 Boca Juniors,1616.023,0.89
-Cruzeiro,1670.1328,1.0
+Cruzeiro,1680.6906,1.0
 River Plate,1600.7929,1.1
 Zhetysu,1423.7915,1.05
 Irtysh,1428.5364,1.08
@@ -384,7 +384,7 @@ Inter Turku,1621.3979,1.1
 Tombense,1442.8202,1.08
 Bahia,1632.2316,1.07
 Bragantino,1628.4877,1.08
-CRB,1482.5911,1.05
+CRB,1482.6827,1.05
 Goiás,1599.3027,1.12
 Guarani,1462.7708,1.04
 Avaí,1507.5995,0.99
@@ -394,7 +394,7 @@ Criciúma,1525.3532,1.12
 Paraná,1398.8279,1.0
 Ceará,1573.4127,1.08
 Confiança,1434.3282,1.08
-Fluminense,1649.079,1.05
+Fluminense,1638.5212,1.05
 Chapecoense,1490.1283,1.07
 Atlético Mineiro,1637.4063,1.07
 Grêmio,1590.425,1.17
@@ -412,7 +412,7 @@ Botafogo PB,1517.9726,1.01
 Ottawa Fury,1508.0254,1.03
 Rio Grande Valley,1518.5114,1.08
 Delfin SC,1492.1243,1.07
-Remo,1515.2217,0.99
+Remo,1517.1769,0.99
 Cuiabá,1533.6145,0.99
 Saint Louis,1504.7829,1.02
 ABC,1445.6532,1.02
@@ -1206,7 +1206,7 @@ Busan I'Park,1471.038,1.07
 Bucheon 1995,1473.7235,1.11
 Avispa Fukuoka,1570.078,0.88
 Urawa Reds,1602.8714,1.03
-Sangju Sangmu,1617.6726,1.07
+Sangju Sangmu,1622.2347,1.09
 Ben Guerdane,1469.1301,0.98
 Shenzhen,1348.5941,1.2
 Chongqing Dangdai Lifan,1453.0676,1.1
@@ -1248,11 +1248,11 @@ LDU Quito,1563.3487,1.11
 Nõmme Kalju,1653.5674,1.16
 Albirex Niigata,1488.8283,1.14
 Consadole Sapporo,1482.671,1.22
-Daegu,1486.4273,1.15
+Daegu,1481.8652,1.17
 Suwon Bluewings,1541.3528,1.12
 Shanghai Shenxin,1328.8352,1.29
-Suwon,1507.3367,1.14
-Shanghai SIPG,1846.1985,1.36
+Suwon,1515.0613,1.14
+Shanghai SIPG,1849.3571,1.36
 Tokyo Verdy,1562.9566,1.03
 Šibenik,1515.6806,1.08
 Guangzhou R&F,1407.1369,1.14
@@ -1260,7 +1260,7 @@ Matsumoto Yamaga,1372.3173,1.11
 Chicago Fire,1438.0649,1.29
 New England Revolution,1410.2405,1.16
 Progreso,1459.7255,1.15
-Gwangju,1554.7649,1.02
+Gwangju,1547.0403,1.02
 Pohang Steelers,1566.9642,1.1
 Gangwon,1549.6535,1.06
 Tokyo,1530.5206,1.1
@@ -1309,13 +1309,13 @@ Bečej,1499.2848,0.99
 Renova,1518.2095,1.1
 Rabotnički,1547.8565,1.0
 Sileks,1658.0581,1.16
-Tianjin Teda,1630.6513,1.06
+Tianjin Teda,1639.7239,1.06
 Tampines Rovers,1684.8321,1.24
 Melaka United,1436.4201,1.1
 Međimurje Čakovec,1374.0364,1.31
 Gomel,1570.0306,1.01
 Minsk,1483.5798,1.15
-Changchun Yatai,1528.708,1.18
+Changchun Yatai,1525.5494,1.18
 Qingdao Huanghai,1359.5297,1.17
 Beijing Renhe,1379.622,1.2
 Liaoning Kaixin,1401.7159,1.16
@@ -1477,7 +1477,7 @@ Tromsdalen,1391.8492,1.17
 Belasica,1385.3867,1.1
 DPMM FC,1465.2394,1.07
 Zamora,1469.4066,1.03
-Operário PR,1478.2743,1.01
+Operário PR,1478.1827,1.01
 Grindavík,1451.8067,0.97
 ÍBV,1448.6068,1.06
 ÍA,1474.296,1.25
@@ -1761,7 +1761,7 @@ Hapoel Kfar Shalem,1466.2924,1.2
 Bastia,1510.7428,1.11
 Blansko,1464.7652,1.01
 Orijent 1919,1510.3944,1.11
-Chengdu Better City FC,1749.097,1.15
+Chengdu Better City FC,1740.0244,1.15
 Barrow,1418.5405,1.04
 Minai,1421.1822,1.06
 Sichuan Jiuniu,1509.3633,1.16
@@ -1908,7 +1908,7 @@ Värnamo,1512.239,1.02
 Club Always Ready,1486.0205,1.11
 Smorgon,1390.1747,1.16
 Häcken W,1772.2931,1.2
-Wuhan Three Towns,1614.3675,1.11
+Wuhan Three Towns,1613.3912,1.1
 BIT,1285.8867,1.08
 Oulu,1464.7603,1.19
 Mondorf-les-Bains,1489.6246,1.15
@@ -1924,7 +1924,7 @@ Bryne,1577.5642,1.11
 Fredrikstad,1624.2789,1.04
 Sud América,1453.9779,1.07
 Floresta,1451.6069,0.9
-Novorizontino,1591.5385,1.06
+Novorizontino,1589.5833,1.06
 AIK Women,1379.1211,1.21
 Altos,1406.1594,1.13
 Mirassol,1625.3176,1.01
@@ -2071,7 +2071,7 @@ Selangor United,1417.7525,1.1
 Sydney Olympic,1563.0423,1.13
 Sydney United,1501.5454,1.1
 Charlotte,1513.0054,1.11
-Sydney II,1449.5228,1.21
+Sydney II,1443.0504,1.21
 Termez Surkhon,1495.7299,1.08
 FK Aksu,1423.7161,1.1
 Maqtaaral,1485.4476,1.05
@@ -2111,7 +2111,7 @@ Rockdale City Suns,1641.9742,1.28
 New York City II,1498.7964,1.29
 Shanghai Jiading,1428.1224,1.02
 Guangxi Baoyun,1433.6844,1.01
-Qingdao Youth Island,1587.8378,1.13
+Qingdao Youth Island,1588.8141,1.12
 Qingdao Jonoon,1498.9181,1.07
 Whitecaps II,1442.754,1.21
 Inter Club d'Escaldes,1494.8834,1.0
@@ -2233,7 +2233,7 @@ Belgrano,1497.6898,1.03
 La Luz,1458.1641,1.13
 Sport Huancayo,1494.5637,1.03
 Nacional Potosí,1472.0969,1.06
-Western Sydney W. II,1480.0653,1.25
+Western Sydney W. II,1486.5377,1.25
 CD El Nacional,1504.8105,1.09
 Kerry,1267.6656,1.13
 Iwaki,1458.124,1.12
